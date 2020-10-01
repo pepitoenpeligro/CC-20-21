@@ -1,7 +1,7 @@
 Clases de Cloud Computing
 ======
 
-https://docs.google.com/forms/d/e/1FAIpQLSdzgVdmqF4ONOwBm2bucsyovrBxqvLFpkQM24UnUspiad4ufw/viewform
+[![Build Status](https://travis-ci.com/JJ/CC-20-21.svg?branch=master)](https://travis-ci.com/JJ/CC-20-21)
 
 
 ## Cloud Computing I COMO
@@ -20,8 +20,3 @@ Repositorio para el material específico de cada clase, planificación y ejercic
   [hitos del proyecto actualizando los ficheros de hitos y haciendo un pull request](proyectos/README.md)
 * Comprueba la [metodología y criterios de evaluación](Metodología_y_criterios_de_evaluación.md)
 * Tu fichero de objetivos estará en el [directorio correspondiente](objetivos/README.md).
-
-
-
-
-

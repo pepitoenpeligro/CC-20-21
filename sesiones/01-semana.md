@@ -39,7 +39,14 @@ la
 * Sistema operativo de referencia en la asignatura: Linux (Ubuntu,
   Debian, Archlinux, Fedora, OpenSUSE, Linux Mint, Arch, Antergos, Manjaro).
 * Entender la cultura DevOps y cómo cambia la filosofía de trabajo.
-* Sobre los grupos de prácticas.
+* Entender cómo se hacen PRs sobre este repositorio para enviar
+  objetivos e hito.
+  * Configurar para que siempre se haga `pull
+    --rebase`
+    [de esta forma](https://stackoverflow.com/questions/13846300/how-to-make-git-pull-use-rebase-by-default-for-all-my-repositories) o
+    simplemente hacer sistemáticamente `git pull --rebase upstream
+    master` cuando se actualice el *fork* local de este repositorio.
+* Sobre los grupos de prácticas: todas las prácticas serán virtuales.
 
 ## Material para la clase
 
@@ -49,7 +56,11 @@ Comienza por esta
 y con
 el
 [hito 0 del proyecto](http://jj.github.io/CC/documentos/proyecto/0.Repositorio),
-cuyo plazo de entrega de este primer hito terminará el **13 de octubre a las 15:30**. Entender bien git es un prerrequisito para esta asignatura. Se puede seguir cualquier tutorial en Internet para entenderlo.
+cuyo plazo de entrega de este primer hito terminará el **13 de octubre
+a las 15:30**. 
+
+> Entender bien git es un prerrequisito para esta asignatura (en
+> general, es un requisito para cualquier profesional de la informática). Se puede seguir cualquier tutorial en Internet para entenderlo.
 
 ## Siguiente semana
 

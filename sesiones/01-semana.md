@@ -1,4 +1,4 @@
-# Primera semana, comienza el 6 de octubre 2019
+# Primera semana, comienza el 6 de octubre de 2020
 
 Agradeceré que contestes
 la
@@ -46,6 +46,8 @@ la
     [de esta forma](https://stackoverflow.com/questions/13846300/how-to-make-git-pull-use-rebase-by-default-for-all-my-repositories) o
     simplemente hacer sistemáticamente `git pull --rebase upstream
     master` cuando se actualice el *fork* local de este repositorio.
+* Entender los errores que se producen cuando se hace un pull request
+  y cómo navegar hasta el registro de los mismos.
 * Sobre los grupos de prácticas: todas las prácticas serán virtuales.
 
 ## Material para la clase

@@ -9,7 +9,11 @@ la
 1. Entender la metodología docente, de evaluación y de interacción de la asignatura.
 2. Darse de alta y comprender el funcionamiento básico
    de git y [GitHub](https://github.com) y el grupo de Telegram de la
-   asignatura; conocer y entender el resto de los recursos de la asignatura. 
+   asignatura; conocer y entender el resto de los recursos de la
+   asignatura. Se
+   puede
+   [asistir a este taller de la DEIIT](https://deiit.ugr.es/taller-git-oct-2020/) esta
+   misma tarde. 
 2. Entender el concepto de software libre y su aplicación práctica en clase.
 3. Vernos las caras.
 4. Comenzar a usar `git` desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones. Un buen conocimiento de git es fundamental para trabajar en esta asignatura.

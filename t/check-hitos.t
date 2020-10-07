@@ -57111,7 +57111,11 @@ my $github;
 
 SKIP: {
   my ($this_hito) = ($diff =~ $diff_regex);
-  skip "No hay envío de proyecto", 5 unless defined $this_hito;
+  unless ( defined $this_hito ) {
+    my ($fichero_objetivos) = ( $diff =~ /[ab]\/objetivos\/(\S+)\.md/ );
+    ok( $fichero_objetivos, "El envío es del fichero de objetivos y tiene la extensión correcta" );
+    skip "No hay envío de proyecto";
+  }
   my $diag=<<EOC;
 
 "Failed test" indica que no se cumple la condición indicada
@@ -57225,7 +57229,9 @@ sub fichero_objetivos {
   my @ficheros_objetivos = glob "objetivos/*.md";
   my @enviados = map { lc } @ficheros_objetivos;
   my $lc_user = lc $user;
-  return grep( /$lc_user/, @enviados);
+  my $este_fichero = grep( /$lc_user/, @enviados);
+  ficheros_objetivos_diferentes( $este_fichero, \@ficheros_objetivos );
+  return $este_fichero;
 }
 
 sub check {
@@ -57274,4 +57280,17 @@ sub objetivos_actualizados {
     return ($hace < 7)?"":"Los objetivos no han sido actualizados en la semana anterior";
   }
 
+}
+
+sub ficheros_objetivos_diferentes {
+  # Comprobación de lo diferentes que son los ficheros de objetivos (o no)
+  my $este_fichero = shift;
+  my $ficheros_arrayref = shift;
+  for my $f (@$ficheros_arrayref) {
+    if ($f ne $este_fichero ) {
+      my $diff = `diff $f $este_fichero`;
+      diag "✗ Si tus objetivos cumplidos son diferentes, el fichero también debería serlo" 
+        unless isnt $diff, "", "El fichero de objetivos enviado no es idéntico a $f";
+    }
+  }
 }

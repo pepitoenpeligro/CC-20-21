@@ -54,6 +54,24 @@ la
   y cómo navegar hasta el registro de los mismos.
 * Sobre los grupos de prácticas: todas las prácticas serán virtuales.
 
+## Laboratorio, 7/10/2020
+
+Cada parte se llevará a cabo de forma autónoma y durará
+aproximadamente 10 minutos. Al final de la clase se entregará,
+mediante PR, el fichero de objetivos con los objetivos cumplidos a lo
+largo de la clase entregados.
+
+1. Creación de par clave pública/privada SSH
+2. Creación de repositorios para la asignatura: ejercicios de
+   autoevaluación, proyecto y fork de la asignatura.
+3. Configuración de los remotes correcto para repositorio CC-20-21
+4. [Revisión del primer tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube):
+   primer ejercicio de autoevaluación
+   
+5. Primer tema: segundo ejercicio de autoevaluación.
+6. Creación del fichero de objetivos en la copia local de CC-20-21
+7. Solicitud de un pull request.
+
 ## Material para la clase
 
 Comienza por esta

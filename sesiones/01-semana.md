@@ -64,12 +64,15 @@ largo de la clase.
 1. Creación de par clave pública/privada SSH
 2. Creación de repositorios para la asignatura: ejercicios de
    autoevaluación, proyecto y fork de la asignatura.
-3. Configuración de los remotes correcto para repositorio CC-20-21
+3. Configuración de los remotes correcto para repositorio CC-20-21.
+4. Configuración de git local correcta: nombre, dirección de correo
+   electrónico, configuración de rebase.
 4. [Revisión del primer tema](http://jj.github.io/CC/documentos/temas/Arquitecturas_para_la_nube):
    primer ejercicio de autoevaluación
    
 5. Primer tema: segundo ejercicio de autoevaluación.
-6. Creación del fichero de objetivos en la copia local de CC-20-21
+6. Creación del fichero de objetivos en la copia local de CC-20-21. El
+   fichero de objetivos tiene que tener como nombre <vuestro nick de GitHub>.md
 7. Solicitud de un pull request.
 
 ## Material para la clase

@@ -72,7 +72,7 @@ largo de la clase.
    
 5. Primer tema: segundo ejercicio de autoevaluación.
 6. Creación del fichero de objetivos en la copia local de CC-20-21. El
-   fichero de objetivos tiene que tener como nombre <vuestro nick de GitHub>.md
+   fichero de objetivos tiene que tener como nombre [vuestro nick de GitHub].md
 7. Solicitud de un pull request.
 
 ## Material para la clase

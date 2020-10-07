@@ -59,7 +59,7 @@ la
 Cada parte se llevará a cabo de forma autónoma y durará
 aproximadamente 10 minutos. Al final de la clase se entregará,
 mediante PR, el fichero de objetivos con los objetivos cumplidos a lo
-largo de la clase entregados.
+largo de la clase.
 
 1. Creación de par clave pública/privada SSH
 2. Creación de repositorios para la asignatura: ejercicios de

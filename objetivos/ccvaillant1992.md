@@ -8,6 +8,7 @@
 6. Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 7. Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
+
 ## Otros objetivos
 
 - Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura

@@ -5,7 +5,7 @@ on:
       - 'objetivos/*.md'
 
 jobs:
-  obtain-repo:
+  check-url-in-diff:
     runs-on: ubuntu-latest
     steps:
       - name: "Comprueba que los nuevos objetivos enlacen fichero"

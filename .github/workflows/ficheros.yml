@@ -10,5 +10,5 @@ jobs:
       with:
         github-token: ${{github.token}}
         bodyContains: "] Prometo"
-        bodyDoesNotContain: "Borrar"
+        bodyDoesNotContain: "Borra"
         filesChanged: 1

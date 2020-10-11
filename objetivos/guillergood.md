@@ -1,4 +1,4 @@
-# Objetivos
+## Repositorio de ejercicios
 
 [Repositorio de tareas de autoevaluación](https://github.com/Guillergood/Ejercicios_20-21_CC)
 

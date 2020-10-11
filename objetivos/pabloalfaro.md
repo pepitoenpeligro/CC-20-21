@@ -7,4 +7,4 @@
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
-[Autoevaluación 1]()
+[Autoevaluación 1](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/semana1.md)

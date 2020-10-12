@@ -19,3 +19,6 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios tema 1](https://github.com/Guillergood/Ejercicios_20-21_CC/tree/main/Ejercicios%20Tema%201)
+
+[Cuaderno de objetivos hito 0](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Cuadernos/Cuaderno%20de%20objetivos%20hito%200.md)
+

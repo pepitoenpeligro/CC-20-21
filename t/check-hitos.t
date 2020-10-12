@@ -57229,7 +57229,7 @@ sub fichero_objetivos {
   my @ficheros_objetivos = glob "objetivos/*.md";
   my @enviados = map { lc } @ficheros_objetivos;
   my $lc_user = lc $user;
-  my $este_fichero = grep( /$lc_user/, @enviados);
+  my ($este_fichero) = grep( /$lc_user/, @enviados);
   ficheros_objetivos_diferentes( $este_fichero, \@ficheros_objetivos );
   return $este_fichero;
 }

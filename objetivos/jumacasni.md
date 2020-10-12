@@ -13,4 +13,4 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-[Ejercicios tema 1](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana01.md)
+[Ejercicios del tema 1](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana01.md)

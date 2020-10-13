@@ -12,5 +12,7 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Arreglar el fichero de objetivos.
 
 [Ejercicios tema 1](https://github.com/Samius1/CC2021-Exercises/blob/main/exercises/Week00_CloudSoftwareArchitecture.md)
+[Configuración de GitHub inicial](https://github.com/Samius1/CC2021-Project/blob/main/docs/firstSteps.md)

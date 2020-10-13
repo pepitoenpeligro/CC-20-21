@@ -19,5 +19,6 @@
 - [x] Entender las diferentes arquitecturas de software modernas y su relación con cloud computing.
 - [x] Aprender diseños que se puedan usar más adelante en aplicaciones desplegables en la nube.
 - [x] Aprender un poco más sobre el diseño dirigido por el dominio.
+- [x] Cambiar nombre de este fichero para que pase a estar en minúscula y los tests logren encontrarlo.
 
 [Ejercicios Tema 1](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema1.md)

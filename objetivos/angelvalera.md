@@ -14,6 +14,12 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
+
+## Otros objetivos
+
+- [x] Pasar los test al hacer un [Pull Request](https://github.com/JJ/CC-20-21/pull/80) de este fichero.
+
+## Actividades
 
 [Ejercicios tema 1](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema1.md)

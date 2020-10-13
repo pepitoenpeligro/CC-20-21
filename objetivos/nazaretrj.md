@@ -17,7 +17,11 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-
+ 
 ### Actividades
 
 [Ejercicios Tema 1](https://github.com/NazaretRJ/CC-20-21-Exercises/blob/main/Exercises%20H0/Tema%201.md)
+
+### Documentación Hito 0
+
+[Documentación del proceso Hito 0](https://github.com/NazaretRJ/CC-2021-Project/blob/main/Documentation/documentationH0.md)

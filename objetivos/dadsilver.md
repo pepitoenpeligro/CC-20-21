@@ -17,7 +17,6 @@
 - [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 - [x] Hacer un [PR](https://github.com/JJ/CC-20-21/pull/90)
 
-
 [Ejercicios tema 1](https://github.com/DADSILVER/CC-Ej-Evaluacion)
 
  

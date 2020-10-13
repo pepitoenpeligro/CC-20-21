@@ -16,7 +16,6 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
-
 - [x] He arreglado un [PR](https://github.com/JJ/CC-20-21/pull/82) de hito renombrando mi fichero de objetivos. URL nueva para pasar el test.
 
 [Ejercicios Tema 1](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema1.md)

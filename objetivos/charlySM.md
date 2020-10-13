@@ -10,7 +10,7 @@
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
 - [x] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
-- [x] Aprender a instalar software libre en Linux.
+- [x] Aprender a instalar software libre en Linux. 
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 

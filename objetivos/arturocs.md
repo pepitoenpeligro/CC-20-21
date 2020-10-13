@@ -7,8 +7,8 @@
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
 - [ ] Vernos las caras.
 - [x] Comenzar a usar `git` desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones. Un buen conocimiento de git es fundamental para trabajar en esta asignatura.
-- [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
 #### Otros objetivos
 - [x] Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
@@ -17,7 +17,7 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando
   GitHub.
-- [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar
   en la asignatura. 
 
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/tree/main/Primera_semana)

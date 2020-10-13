@@ -15,3 +15,4 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios Arquitectura de software](https://github.com/CharlySM/Ejericios_CC-20-21/tree/main/Arquitecturas%20software%20para%20la%20nube)
+[objetivos](https://github.com/CharlySM/CC-20-21/blob/newName/objetivos/charlysm.md)

@@ -31,6 +31,20 @@
   * Conocer permisos y cuales usar en cada momento.
 * Entender lo necesario para entregar el hito 0 del proyecto.
 
+## Laboratorio 14 de octubre de 2020
+
+* Si el guión dice algo o que se evalúa algo, hay que entregar ese algo enlazándolo desde
+  el README.md. Esto incluye:
+  * Organización del proyecto en milestones e issues (aunque esto no
+    se está calificando todavía).
+  * Una descripción del problema que se va a solucionar en el proyecto
+    en términos suficientemente generales y que sea suficientemente
+    amplio para un proyecto completo.
+  * Enlazado a la documentación que muestre que se ha configurado
+    correctamente el repositorio, incluyendo par clave
+    pública/privada.
+    
+
 ## Material para la clase
 
 [Material del tema de desarrollo basado en pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas)

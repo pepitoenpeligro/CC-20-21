@@ -1,4 +1,7 @@
-# Objetivos de la primera semana
+# Objetivos
+
+## Objetivos de la primera semana
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
@@ -11,6 +14,12 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
 
-[Ejercicios tema 1](https://github.com/Samius1/CC2021-Exercises/blob/main/exercises/Week00_CloudSoftwareArchitecture.md)
+## Otros objetivos
+
+- [x] Pasar los test al hacer un [Pull Request](https://github.com/JJ/CC-20-21/pull/80) de este fichero.
+
+## Actividades
+
+[Ejercicios tema 1](https://github.com/AngelValera/CC2021-Ejercicios/blob/main/Ejercicios/Tema1.md)

@@ -8,6 +8,5 @@
 - [x] Comenzar a usar git desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones. Un buen conocimiento de git es fundamental para trabajar en esta asignatura.
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 - [x] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo. 
-
-[Ejercicios Tema 1](https://github.com/victorTorres92/Autoevalucion)
-
+ 
+[Ejercicios Tema  1](https://github.com/victorTorres92/Autoevalucion)

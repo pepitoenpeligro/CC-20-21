@@ -33,8 +33,8 @@
 
 ## Laboratorio 14 de octubre de 2020
 
-* Objetivo de la clase: volver a enviar el hito aquellos que no lo
-  hayan hecho o que lo hayan suspendido. El reenvío se calificará
+* Objetivo de la clase: volver a enviar [el hito](http://jj.github.io/CC/documentos/proyecto/0.Repositorio) aquellos que no lo
+  hayan hecho, que quieran subir nota o que lo hayan suspendido. El reenvío se calificará
   sobre un punto menos, hasta un máximo de 9.
 * Si el guión dice algo o que se evalúa algo, hay que entregar ese algo enlazándolo desde
   el README.md. Esto incluye:

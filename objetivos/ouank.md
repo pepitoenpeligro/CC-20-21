@@ -27,3 +27,5 @@
 - [] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
 - [ ] Entender el concepto de domain driven design.
 - [] Entender arquitecturas de paso de mensajes.
+
+[ejercicio 02](https://github.com/ouank/CC-ejercicios/blob/master/ej-02.md)

@@ -14,3 +14,18 @@
 - [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [ejercicio 01](https://github.com/ouank/CC-ejercicios/blob/master/ej-01.md)
+
+# Objetivos de la segunda semana
+- [] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [] Entender las características de las aplicaciones que se despliegan en la nube.
+- [] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [] Entender lo necesario para entregar el hito 0 del proyecto.
+- [] Entender correctamente la dinámica de la asignatura.
+- [] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
+- [] Entender cómo se plantea un proyecto en informática. 
+- [] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
+- [ ] Entender el concepto de domain driven design.
+- [] Entender arquitecturas de paso de mensajes.
+
+[ejercicio 02](https://github.com/ouank/CC-ejercicios/blob/master/ej-02.md)

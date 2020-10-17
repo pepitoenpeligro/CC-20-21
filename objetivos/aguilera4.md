@@ -29,4 +29,4 @@
 
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-[Ejercicios Tema 1](https://github.com/Aguilera4/Ejercicios_Autoeval_CC/blob/main/ejercicios_tema1.md)
+[Ejercicios Tema 1] (https://github.com/Aguilera4/Ejercicios_Autoeval_CC/blob/main/ejercicios_tema1.md)

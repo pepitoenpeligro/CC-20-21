@@ -17,6 +17,7 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 
 - [x] Añado documentacion al repositorio para reentrega hito0
+- [x] Correccion en comentario pr
 
 ## Repositorio ejercicios
 

@@ -16,6 +16,8 @@
 - [x] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub.
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 
+- [x] Añado documentacion al repositorio para reentrega hito0
+
 ## Repositorio ejercicios
 
 [Repositorio de ejercicios](https://github.com/kaizensamuel/EjerciciosCC)

@@ -22,3 +22,5 @@
 ## Repositorio ejercicios
 
 [Repositorio de ejercicios](https://github.com/kaizensamuel/EjerciciosCC)
+
+[Ejercicios tema 1] (https://github.com/kaizensamuel/EjerciciosCC/blob/main/Tema%201/Ejercicio1.md)

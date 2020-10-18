@@ -11,6 +11,6 @@ First week goals
 - [x] Basic handling of the Linux command line.
 - [x] Learn to install free software in Linux.
 - [x] Deliver the objectives file and the first exercises using GitHub.
-- [] Know where you can get free cloud resources to use in the subject.
+- [x] Know where you can get free cloud resources to use in the subject.
 
-[Exercises topic 1] (https://github.com/khawla-banydomi/exercises-khawla)
+[Exercises First Week](https://github.com/khawla-banydomi/CC-exercises-repo/tree/main/exercises-first-week)

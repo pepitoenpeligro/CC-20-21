@@ -94,6 +94,10 @@
   for the extraordinary call in Septembre 2021.
   * All plagiarism will be reported to the Master coordinator, in case
     it would give rise to an disciplinary file.
+* Understand the basic keys of
+  the
+  [first milestone](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura),
+  deadline Oct 27th (as it says right below).
 
 ## Material para la clase
 

@@ -20,3 +20,4 @@
 
 Enlace a los [ejercicios del tema 1](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios1.md)
 
+Enlace a los [ejercicios del tema 2](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios2.md)

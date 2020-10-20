@@ -12,10 +12,15 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Comprender como hacer reenvios de hitos y saber la estructura que siguen.
+- [x] Conocer que solo se puede utilizar un PR para modificar hito u objetivos.
+- [x] Solventar errores del último hito.
 
 [Ejercicios tema 1](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%201:%20Arquitecturas%20software%20para%20la%20nube/tema1.md)
 
 [Laboratorio 2020-10-07](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Laboratorio/2020-10-07.md)
+
+[README.md editado](https://github.com/alvarodelaflor/CoronaAlert/blob/master/README.md)
 
 # Objetivos de la segunda semana
 - [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.

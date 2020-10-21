@@ -1,4 +1,4 @@
-# Objetivos a cubrir en la primera semana
+# Objetivos de la primera semana (6 de octubre de 2020)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura. Se puede asistir a este taller de la DEIIT esta misma tarde.
@@ -18,4 +18,30 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios del tema 1](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema1/ejercicios_tema1.md)
+
+# Objetivos de la segunda (13 de octubre de 2020) y la tercera semana (20 de octubre de 2020)
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+
+### Otros objetivos
+
+- [x] Entender los errores cometidos en el hito
+- [x] Entender cómo se hace desarrollo colaborativo en git: resolver conflictos, sincronizar versiones...
+- [x] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
+- [x] Ejemplo de arquitectura basada en eventos: cliente Slack y Celery + servidor de tareas.
+- [x] Ejemplo adicional Gateway + worker + procesador + store.
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+	- [x] Saber manejar la historia de comandos anteriores.
+	- [x] Configurar la línea de órdenes para presentar información de repos.
+	- [x] Conocer permisos y cuáles usar en cada momento.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+- [x] Hacer un ejercicio práctico de domain driven design.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
+
+[Ejercicios del tema 2](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema2/ejercicios_tema2.md)
 

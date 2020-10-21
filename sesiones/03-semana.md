@@ -25,6 +25,13 @@
   pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
   * Importancia de las HU en la misma → todo el desarrollo emana de ahí.
 
+## Laboratorio 21 de octubre de 2020
+
+* Entender la diferencia entre gestor de tareas, gestor de
+  dependencias, *build tool*.
+  * ["Dirigido por configuración" frente a "dirigido por código".](https://github.com/ClevelandJavaScript/grunt-and-gulp)
+  * [Como elegir una herramienta de construcción](https://freecontent.manning.com/how-to-pick-your-build-tool/)
+  
 ## Material para la clase
 
 Comenzamos con [desarrollo basado en pruebas](https://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas.md).

@@ -14,15 +14,3 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. Usando los recursos gratuitos de GitHub for education.
 
 [Ejercicios tema 1](https://github.com/jscoba/CC-autoevaluacion/blob/main/ejercicios/tema1.md)
-
-# Objetivos de la segunda semana
-
-- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [x] Entender las características de las aplicaciones que se despliegan en la nube.
-
-# Objetivos de la tercera semana
-
-- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
-
-[Ejercicios tema 2](https://github.com/jscoba/CC-autoevaluacion/blob/main/ejercicios/tema2.md)
-

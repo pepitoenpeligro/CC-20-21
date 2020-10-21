@@ -14,18 +14,3 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios tema 1](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter1)
-
-# Objetivos de la segunda semana
-- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [x] Entender las características de las aplicaciones que se despliegan en la nube.
-- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
-- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
-- [x] Entender lo necesario para entregar el hito 0 del proyecto.
-- [x] Entender correctamente la dinámica de la asignatura.
-- [x] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
-- [x] Entender cómo se plantea un proyecto en informática. 
-- [x] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
-- [x] Entender el concepto de domain driven design.
-- [x] Entender arquitecturas de paso de mensajes.
-
-[Ejercicios tema 2](https://github.com/gabcas28/Exercises-CC/tree/main/Chapter2)

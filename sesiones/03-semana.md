@@ -27,11 +27,13 @@
 
 ## Laboratorio 21 de octubre de 2020
 
+* [Ejemplos de HU](https://github.com/cecimerelo/VizYourData/issues/13).
+  * `CoS` = conditions of satisfaction.
 * Entender la diferencia entre gestor de tareas, gestor de
   dependencias, *build tool*.
   * ["Dirigido por configuración" frente a "dirigido por código".](https://github.com/ClevelandJavaScript/grunt-and-gulp)
   * [Como elegir una herramienta de construcción](https://freecontent.manning.com/how-to-pick-your-build-tool/)
-  
+
 ## Material para la clase
 
 Comenzamos con [desarrollo basado en pruebas](https://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas.md).

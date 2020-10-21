@@ -5,12 +5,12 @@
 1. Entender las claves del desarrollo basado en pruebas.
 3. Comprender el paper fundamental de la infraestructura virtual en
    este proceso.
-4. Entender el concepto de "infraestructura como código" e "infraestructura virtual" para ponerlo en práctica en el hito número 1.
+4. Entender cual es la estructura de los programas de test y cómo se
+   pueden implementar en los diferentes lenguajes de programación.
 
 ## Otros objetivos
 
-* Recomendación a los recién llegados: [comenzar con los objetivos de
-  la asignatura, empezando por los de la primera semana](01-semana.md).
+* Entender los errores comunes en el hito 1.
 
 ## Material para la clase
 

@@ -32,6 +32,7 @@ jobs:
                     issue =>
                         issue.labels.filter( label => label.name === "user-stories" ).length > 0
                         && issue.title.includes('HU')
+                        && issue.milestone
                 )
                 if ( user_stories.length > 0 ) {
                     console.log( " ✅ Hay al menos una historia de usuario " )

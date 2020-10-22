@@ -82,8 +82,8 @@ EOC
   if ( $this_hito >= 1 ) {
     doing("hito 1");
     if ( -e "$repo_dir/cc.yaml" ) {
-      $iv = LoadFile("$repo_dir/cc.yaml");
-      ok( $iv, "Fichero de configuración para corrección cc.yaml cargado correctamente" );
+      $cc = LoadFile("$repo_dir/cc.yaml");
+      ok( $cc, "Fichero de configuración para corrección cc.yaml cargado correctamente" );
       file_present( $cc->{'entidad'}, \@repo_files, " de implementación de una entidad" );
     }
   }

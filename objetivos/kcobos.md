@@ -1,8 +1,8 @@
 # Objetivos
 
-[Repositorio de ejercicios](https://github.com/kcobos/Ejercicios-CC/)
-
 ## Objetivos de la primera semana
+
+[Ejercicios tema 1](https://github.com/kcobos/Ejercicios-CC/tree/master/Tema1)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura.

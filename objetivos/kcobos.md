@@ -1,8 +1,8 @@
 # Objetivos
 
-[Repositorio de ejercicios](https://github.com/kcobos/Ejercicios-CC/)
-
 ## Objetivos de la primera semana
+
+[Ejercicios tema 1](https://github.com/kcobos/Ejercicios-CC/tree/master/Tema1)
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura.
@@ -20,3 +20,16 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+
+## Objetivos segunda semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+### Otros objetivos
+
+- [X] Entender los errores cometidos en el hito.
+- [X] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- [X] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [X] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [X] Entender lo necesario para entregar el hito 0 del proyecto.

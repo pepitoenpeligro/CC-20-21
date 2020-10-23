@@ -13,4 +13,4 @@ First week goals
 - [x] Deliver the objectives file and the first exercises using GitHub.
 - [x] Know where you can get free cloud resources to use in the subject.
 
-[Exercises First Week](https://github.com/khawla-banydomi/CC-exercises-repo/tree/main/exercises-first-week)
+[Exercises Of The First Week](https://github.com/khawla-banydomi/CC-exercises-repo/tree/main/exercises-first-week)

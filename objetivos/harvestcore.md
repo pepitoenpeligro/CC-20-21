@@ -1,6 +1,7 @@
 # Objetivos
 
 ## Primera semana
+
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
@@ -16,3 +17,22 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios Tema 1](https://github.com/harvestcore/CCExercises/blob/master/exercises/cloud-software-architectures.md)
+
+## Segunda semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender los errores cometidos en el hito 0.
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales (configuración remota, log, ...).
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+
+## Tercera semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+- [x] Hacer un ejercicio práctico de domain driven design.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
+
+[Ejercicios Tema 2](https://github.com/harvestcore/CCExercises/blob/master/exercises/test_based_development.md)

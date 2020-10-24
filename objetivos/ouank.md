@@ -25,7 +25,7 @@
 - [x] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
 - [x] Entender cómo se plantea un proyecto en informática. 
 - [x] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
-- [ ] Entender el concepto de domain driven design.
+- [x] Entender el concepto de domain driven design.
 - [x] Entender arquitecturas de paso de mensajes.
 
 [semana 02](https://github.com/ouank/CC-ejercicios/tree/master/semana2)

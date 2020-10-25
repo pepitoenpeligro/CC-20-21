@@ -34,6 +34,16 @@
   * ["Dirigido por configuración" frente a "dirigido por código".](https://github.com/ClevelandJavaScript/grunt-and-gulp)
   * [Como elegir una herramienta de construcción](https://freecontent.manning.com/how-to-pick-your-build-tool/)
 
+## Lab class October 26th
+
+- Check out  [HU examples](https://github.com/cecimerelo/VizYourData/issues/13).
+  * `CoS` = conditions of satisfaction.
+  * As a matter of fact, she's got an [issue template](https://github.com/cecimerelo/VizYourData/blob/main/.github/ISSUE_TEMPLATE/user_story.md) from which you could draw some inspiration.
+- Understahd what's the difference between task manager, dependency manager, build tool.
+  - Understand some work "driven by configuration", most "driven by code".
+  - [Picking a build tool](https://freecontent.manning.com/how-to-pick-your-build-tool/)
+  - How's all this related to cloud computing
+
 ## Material para la clase
 
 Comenzamos con [desarrollo basado en pruebas](https://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas.md).

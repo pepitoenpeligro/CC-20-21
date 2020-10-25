@@ -12,7 +12,7 @@ Entrega de fichero de objetivos
 ## Primero y más importante
 
 * [ ] Prometo no cerrar *nunca* un PR
-* [ ] ... ni borrar mi repo si el PR va mal ...
+* [ ] ... ni eliminar mi repo si el PR va mal ...
 * [ ] ... ni abrir 2 PRs de lo mismo.
 
 ## Lista de comprobación para hitos (*borrar si no es un hito*)

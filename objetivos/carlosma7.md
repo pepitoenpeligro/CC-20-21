@@ -43,6 +43,6 @@
 - [x] Entender los conceptos fundamentales de [desarrollo basado en
   pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
   
-[Ejercicios tema 2](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema2/tema2.md)
+[Ejercicios tema 2](https://github.com/Carlosma7/EJERCICIOS-CC/blob/main/Ejercicios/tema2.md)
 
 

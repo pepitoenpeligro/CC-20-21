@@ -18,3 +18,46 @@
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
 [Ejercicios tema 1](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%201)
+
+# Objetivos de la segunda semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+### Otros objetivos
+
+- [x] Entender los errores cometidos en el hito
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales: configuración remota y log.
+- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de
+  la asignatura.
+
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes,
+  especialmente en Linux.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+
+
+# Objetivos de la tercera semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan
+   en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su
+   importancia en la infraestructura virtual; entender la diferencia
+   con los gestores de dependencias.
+
+
+### Otros objetivos
+
+- [x] Durante esta semana, se tendrá que entregar el hito 1 (27 de
+  octubre).
+- [ ] Recomendación a los recién llegados: [comenzar con los objetivos de
+  la asignatura, empezando por los de la primera semana](01-semana.md).
+- [x] Hacer un ejercicio práctico de domain driven design.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué
+  hay que usar siempre [gestores de versiones](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) para todos cualquier
+  lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de [desarrollo basado en
+  pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
+- [x] Importancia de las HU en la misma → todo el desarrollo emana de ahí.
+
+[Ejercicios tema 2](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%202)

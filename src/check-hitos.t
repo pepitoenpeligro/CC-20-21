@@ -212,3 +212,13 @@ sub ficheros_objetivos_diferentes {
     }
   }
 }
+
+# Está este fichero en el repo?
+sub file_present {
+  my ($file, $ls_files_ref, $name ) = @_;
+  my @files = (ref($file) eq 'ARRAY')?@$file:($file);
+  for my $file (@files ) {
+    ok( grep( /$file/, @$ls_files_ref ), "Fichero $name → $file presente" );
+  }
+
+}

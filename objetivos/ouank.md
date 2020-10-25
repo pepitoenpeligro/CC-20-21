@@ -41,3 +41,4 @@
  - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
  - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 
+

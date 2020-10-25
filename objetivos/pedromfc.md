@@ -50,14 +50,14 @@
 
 - [x] Durante esta semana, se tendrá que entregar el hito 1 (27 de
   octubre).
-- [ ] Recomendación a los recién llegados: [comenzar con los objetivos de
-  la asignatura, empezando por los de la primera semana](01-semana.md).
+- [ ] Recomendación a los recién llegados: comenzar con los objetivos de
+  la asignatura, empezando por los de la primera semana.
 - [x] Hacer un ejercicio práctico de domain driven design.
 - [x] Entender por qué se desarrolla desde espacio de usuario y por qué
-  hay que usar siempre [gestores de versiones](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) para todos cualquier
+  hay que usar siempre gestores de versiones para cualquier
   lenguaje de desarrollo.
-- [x] Entender los conceptos fundamentales de [desarrollo basado en
-  pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
+- [x] Entender los conceptos fundamentales de desarrollo basado en
+  pruebas TDD.
 - [x] Importancia de las HU en la misma → todo el desarrollo emana de ahí.
 
 [Ejercicios tema 2](https://github.com/PedroMFC/Autoevaluacion-CC/tree/main/semana%202)

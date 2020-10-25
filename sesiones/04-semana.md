@@ -12,6 +12,10 @@
 
 * Entender los errores comunes en el hito 1.
 
+* Entender la importancia de los flujos de trabajo en el desarrollo de software.
+
+* Entender cómo encaja TDD dentro de la infraestructura virtual.
+
 ## Material para la clase
 
 - [Desarrollo basado en tests](http://jj.github.io/CC/documentos/proyecto/2.Tests), el segundo hito de la asignatura.

@@ -14,7 +14,7 @@
 
 ## Material para la clase
 
-
+- [Desarrollo basado en tests](http://jj.github.io/CC/documentos/proyecto/2.Tests), el segundo hito de la asignatura.
 
 
 ## Siguiente semana

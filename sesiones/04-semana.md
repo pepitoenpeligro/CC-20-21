@@ -1,4 +1,4 @@
-# Cuarta semana, 21 de octubre
+# Cuarta semana, 27 de octubre
 
 ## Objetivos a cubrir en esta semana
 
@@ -13,6 +13,7 @@
 * Entender los errores comunes en el hito 1.
 
 ## Material para la clase
+
 
 
 

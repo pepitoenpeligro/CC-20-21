@@ -40,5 +40,6 @@
  - [x] Aprender más sobre cómo gestionar recursos en mi proyecto.
  - [x] Aprender más sobre la tecnología que voy a usar.
  - [x] Afianzar conocimientos sobre integración continua.
+ - [x] Recordar la importancia de las Historias de Usuario.
 
  [Ejercicios tema 2](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%202/Ejercicios.md)

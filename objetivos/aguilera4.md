@@ -64,7 +64,6 @@
 
 ---
 
-
 # Objetivos Semana 3
 
 ## Objetivos a cubrir en esta semana

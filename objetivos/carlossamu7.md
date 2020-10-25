@@ -41,7 +41,7 @@
 
 ## Otros objetivos
 
-- [x] Hacer un ejercicio práctico de domain driven design.
+- [x] Hacer un ejercicio práctico de *domain driven design*.
 - [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 

@@ -28,7 +28,7 @@
 - [x] Entender el concepto de domain driven design.
 - [x] Entender arquitecturas de paso de mensajes.
 
-[semana 02](https://github.com/ouank/CC-ejercicios/tree/master/semana2)
+[semana 02](https://github.com/ouank/CC-ejercicios/blob/master/semana2/ejercicios.md)
 
 # Objetivos de la tercera semana
  - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.

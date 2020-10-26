@@ -20,5 +20,5 @@
 [Ejercicios tema 1](https://github.com/DADSILVER/CC-Ej-Evaluacion)
 
 
-[Hito 0](https://github.com/DADSILVER/CC-TFTHelp/tree/main/Hito%200)
+[Configuración hito 0](https://github.com/DADSILVER/Clipper-TwichtBot/blob/main/Hito%200/Config.md)
  

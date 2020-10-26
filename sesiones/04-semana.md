@@ -11,6 +11,11 @@
 ## Otros objetivos
 
 * Entender los errores comunes en el hito 1.
+  * No enlazar la clase que se ha programado
+  * La clase no tiene que tener *todos* los getters y setters...
+  * ... y tienen que enlazar las HU.
+  * La planificación tiene que ser explícita, no cada elemento por
+    separado. 
 
 * Entender la importancia de los flujos de trabajo en el desarrollo de software.
 

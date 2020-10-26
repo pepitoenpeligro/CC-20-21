@@ -18,6 +18,31 @@
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
+## Objetivos de la segunda semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+### Otros objetivos
+
+- [x] Entender los errores cometidos en el hito
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- [x] Remarcar lo necesario para alcanzar el primer hito de la asignatura.
+- [x] Manejar con soltura los diferentes recursos de la línea de órdenes.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+
+## Objetivos de la tercera semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+
+### Otros objetivos
+
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
+
+
 Enlace a los [ejercicios del tema 1](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios1.md)
 
 Enlace a los [ejercicios del tema 2](https://github.com/antobalbis/autoevaluacion/blob/main/ejercicios2.md)

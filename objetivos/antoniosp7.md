@@ -43,6 +43,7 @@
  - [x] Hacer un ejercicio práctico de domain driven design.
  - [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
  - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD. 
+ - [x] He comprendido como solventar un error debido a un fallo en la descripción de un pull request
  
 
 [Ejercicios Tema 2](https://github.com/antoniosp7/Ejercicios-CC/tree/main/Tema2)

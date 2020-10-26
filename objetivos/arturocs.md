@@ -62,4 +62,3 @@
 
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_2.md)
 
-## 

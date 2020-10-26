@@ -17,31 +17,34 @@
 [Ejercicios Tema 1](https://github.com/antoniosp7/Ejercicios-CC/tree/main/Tema1)
 
 # Objetivos de la semana 2
-- [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
-- [ ] Entender las características de las aplicaciones que se despliegan en la nube.
-- [ ] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
-- [ ] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
-- [ ] Entender lo necesario para entregar el hito 0 del proyecto.
-- [ ] Entender correctamente la dinámica de la asignatura.
-- [ ] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
-- [ ] Entender cómo se plantea un proyecto en informática. 
-- [ ] Entender la diferencia entre frontend y backend y cómo se pueden desarrollar de forma independiente. 
-- [ ] Entender el concepto de domain driven design.
-- [ ] Entender arquitecturas de paso de mensajes.
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+## Otros objetivos
+
+- [x] Entender los errores cometidos en el hito.
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+
 
 # Objetivos de la semana 3
- - [ ] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
- - [ ] Entender las características de las aplicaciones que se despliegan en la nube.
- - [ ] Entender cómo se hace desarrollo colaborativo en git: resolver conflictos, sincronizar versiones...
- - [ ] Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
- - [ ] Ejemplo de arquitectura basada en eventos: cliente Slack y Celery + servidor de tareas.
- - [ ] Ejemplo adicional Gateway + worker + procesador + store.
- - [ ] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
- - [ ] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
- - [ ] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 
- # Objetivos de la semana 4
-- [ ] Entender las claves del desarrollo basado en pruebas.
-- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
-- [ ] Entender el concepto de "infraestructura como código" e "infraestructura virtual" para ponerlo en práctica en el hito número 1.
-- [ ] Entender qué son los brokers de mensajería y cómo se usan.
+ - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube..
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+
+
+## Otros objetivos
+ - [x] Durante esta semana, se tendrá que entregar el hito 1 (27 de octubre).
+ - [ ] Recomendación a los recién llegados: comenzar con los objetivos de la asignatura, empezando por los de la primera semana.
+ - [x] Hacer un ejercicio práctico de domain driven design.
+ - [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+ - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD. 
+ 
+
+[Ejercicios Tema 2](https://github.com/antoniosp7/Ejercicios-CC/tree/main/Tema2)
+
+

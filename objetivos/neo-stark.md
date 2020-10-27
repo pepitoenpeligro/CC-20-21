@@ -39,4 +39,4 @@
     3. Puesto que mi proyecto se va a desarrollar en scala pongo como ejemplo el propio proyecto para el ejercicio: https://github.com/neo-Stark/FIND4CAR/
     4. Pendiente
     5. Hecho. Falta documentar y enlazar. 
-
+- [x] Modificar plantilla del PR para que pase los tests

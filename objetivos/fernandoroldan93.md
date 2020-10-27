@@ -19,3 +19,20 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 - [x] Primer tema: segundo ejercicio de autoevaluación.
 - [x] Creación del fichero de objetivos en la copia local de CC-20-21. El fichero de objetivos tiene que tener como nombre [vuestro nick de GitHub].md
 - [x] Solicitud de un pull request.
+
+# Segunda Semana
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.    
+
+# Tercera Semana
+- [] Hacer un ejercicio práctico de domain driven design.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué
+  hay que usar siempre [gestores de versiones](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) para todos cualquier lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de [desarrollo basado en
+  pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
+- [x] Importancia de las HU en la misma → todo el desarrollo emana de ahí.
+
+# Cuarta Semana
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación

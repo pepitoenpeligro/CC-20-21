@@ -19,7 +19,6 @@
 
 # Objetivos Semana 2
 
-## Objetivos a cubrir en esta semana
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
 - [x] Entender las características de las aplicaciones que se despliegan en la nube.
@@ -46,8 +45,6 @@
 ---
 
 # Objetivos Semana 3
-
-## Objetivos a cubrir en esta semana
 
 - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 

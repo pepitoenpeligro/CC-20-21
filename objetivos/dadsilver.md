@@ -15,9 +15,10 @@
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 - [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
-- [x] Hacer un [PR](https://github.com/JJ/CC-20-21/pull/90)
+
 
 [Ejercicios tema 1](https://github.com/DADSILVER/CC-Ej-Evaluacion)
 
 
-
+[Configuración hito 0](https://github.com/DADSILVER/Clipper-TwichtBot/blob/main/Hito%200/Config.md)
+ 

@@ -7,6 +7,7 @@ use File::Slurper qw(read_text);
 use Net::Ping;
 use Term::ANSIColor qw(:constants);
 use JSON;
+use YAML qw(LoadFile);
 
 use v5.14; # For say
 
@@ -76,6 +77,17 @@ EOC
   if ($with_pip) {
      ok( grep( /requirements.txt/, @repo_files), "Fichero de requisitos de Python con nombre correcto" );
    }
+
+  my $cc; # Fichero de configuración
+  if ( $this_hito >= 1 ) {
+    doing("hito 1");
+    if ( -e "$repo_dir/cc.yaml" ) {
+      $cc = LoadFile("$repo_dir/cc.yaml");
+      ok( $cc, "Fichero de configuración para corrección cc.yaml cargado correctamente" );
+      file_present( $cc->{'entidad'}, \@repo_files, " de implementación de una entidad" );
+    }
+  }
+
 
   if ( $this_hito > 1 ) { # Integración continua
     doing("hito 2");
@@ -199,4 +211,14 @@ sub ficheros_objetivos_diferentes {
         unless isnt $diff, "", "El fichero de objetivos enviado no es idéntico a $f";
     }
   }
+}
+
+# Está este fichero en el repo?
+sub file_present {
+  my ($file, $ls_files_ref, $name ) = @_;
+  my @files = (ref($file) eq 'ARRAY')?@$file:($file);
+  for my $file (@files ) {
+    ok( grep( /$file/, @$ls_files_ref ), "Fichero $name → $file presente" );
+  }
+
 }

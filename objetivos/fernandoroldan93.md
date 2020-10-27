@@ -1,5 +1,9 @@
 El repositorio que almacenará todas las tareas de auto evaluación se puede encontrar en este [enlace](https://github.com/FernandoRoldan93/Ejercicios-CC)
 
+
+* [Ejercicios del tema de desarrollo arquitecturas software](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Arquitecturas_software.md)
+* [Ejercicios del tema de desarrollo basado en pruebas](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/main/Doc/Desarrollo_basado_en_pruebas.md)
+
 # Primera Semana
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.

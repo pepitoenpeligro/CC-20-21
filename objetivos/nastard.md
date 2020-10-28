@@ -15,4 +15,22 @@
 12. [X] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
 13. [X] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 
-[Ejercicios tema 1](https://github.com/Nastard/EjerciciosCC/tree/main/Ejercicios%20Hito0)
+[Ejercicios tema 1](https://github.com/Nastard/EjerciciosCC/tree/main/Ejercicios%20Tema1)
+
+## Objetivos de la segunda semana
+1. [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+2. [X] Entender las características de las aplicaciones que se despliegan en la nube.
+3. [X] Entender los errores cometidos en el hito0.
+4. [X] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+5. [X] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+6. [X] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+7. [X] Conocer los conceptos relacionados con el proceso de virtualización tanto de software como de hardware y ponerlos en práctica.
+
+## Objetivos de la tercera semana
+1. [X] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+2. [X] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+3. [X] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
+4. [X] Entender el concepto de DevOps.
+5. [X] Aprender a usar integración continua en cualquier aplicación.
+
+[Ejercicios tema 2](https://github.com/Nastard/EjerciciosCC/tree/main/Ejercicios%20Tema2)

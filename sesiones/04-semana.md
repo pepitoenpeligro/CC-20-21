@@ -39,9 +39,20 @@
     métodos. Ni debe haber un issue de "crear clase". Los issues son
     siempre qué es lo que uno quiere conseguir cuando se escriba el
     código.
+    * Nadie usa enums.
+    * Nadie declara exceptiones.
     * **NO** gestionéis autenticación, y menos con un "password"
       almacenado en texto plano o como sea. La autentiación se hace
       aparte.
+    * No pongáis "logearse" (ni nada que sea una palabra correcta) en
+      la aplicación. Conectarse a la aplicación es un servicios
+      normalmente externo, no es algo que tengáis que incluir en la
+      arquitectura ni en las clases definidas (a pesar de lo que os
+      hayan hecho creer hasta ahora).
+    * Las clases deberían de ser capaces de hacer algo aparte de
+      almacenar datos. Si hacéis eso, es porque realmente *no* estáis
+      siguiendo los requisitos del diseño y creando una entidad que
+      pueda gestionar los datos. Estáis creando un objeto-valor.
   * Nadie muestra que es sintácticamente correcta la implementación
     doe la clase.
   * Sobre las "tecnologías elegidas":

@@ -12,7 +12,7 @@
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
 - [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
-- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura. 
 
 [Ejercicios Arquitectura de software](https://github.com/CharlySM/Ejericios_CC-20-21/tree/main/Arquitecturas%20software%20para%20la%20nube)
 [objetivos](https://github.com/CharlySM/CC-20-21/blob/newName/objetivos/charlysm.md)

@@ -29,3 +29,33 @@
 - [x] Solicitud de un pull request.
 
 Los ejercicios se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-1.md).
+
+
+# Segunda semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+
+## Otros objetivos
+
+- [x] Entender los errores cometidos en el hito
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+
+# Tercera semana
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+
+## Otros objetivos
+
+- [x] Durante esta semana, se tendrá que entregar el hito 1 (27 de octubre).
+- [ ] Recomendación a los recién llegados: comenzar con los objetivos de la asignatura, empezando por los de la primera semana.
+- [x] Hacer un ejercicio práctico de domain driven design.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
+
+Los ejercicios del tema 2 se pueden consultar [aquí](https://github.com/januszewskimar/CC-ejercicios-autoevaluacion/blob/main/docs/tema-2.md).

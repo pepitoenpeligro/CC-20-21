@@ -18,3 +18,25 @@
 
 [Ejercicios del tema 1](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana1.md)
 
+
+# Hito 1
+
+## Objetivos de la semana 2
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender los errores cometidos en el hito.
+- [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+
+## Objetivos de la semana 3
+
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual; entender la diferencia con los gestores de dependencias.
+- [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
+- [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
+
+[Ejercicios del tema 2](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana2.md)

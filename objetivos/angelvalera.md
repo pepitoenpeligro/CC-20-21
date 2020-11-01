@@ -69,6 +69,7 @@
 - [ ] Realizar un reenvío con las correcciones del hito 1.
 - [x] Actualizar [fichero](https://github.com/JJ/CC-20-21/pull/219) de objetivos con los objetivos de la semana 4.
 
+
 ---
 
 ## Actividades

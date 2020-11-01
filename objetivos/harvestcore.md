@@ -1,5 +1,7 @@
 # Objetivos
 
+> Repositorio de ejercicios: [Link](https://github.com/harvestcore/CCExercises)
+
 ## Primera semana
 
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
@@ -36,3 +38,12 @@
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 
 [Ejercicios Tema 2](https://github.com/harvestcore/CCExercises/blob/master/exercises/test_based_development.md)
+
+## Cuarta semana
+
+- [ ] Entender las claves del desarrollo basado en pruebas.
+- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [ ] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los errores comunes en el hito 1.
+- [ ] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [ ] Entender cómo encaja TDD dentro de la infraestructura virtual.

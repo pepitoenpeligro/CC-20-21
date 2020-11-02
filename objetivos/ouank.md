@@ -41,4 +41,8 @@
  - [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
  - [x] Haber entregado el hito 0 del proyecto y entender qué se buscaba con el mismo.
 
-
+ # Objetivos de la cuarta semana
+- [] Entender las claves del desarrollo basado en pruebas.
+- [] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [] Entender el concepto de "infraestructura como código" e "infraestructura virtual" para ponerlo en práctica en el hito número 1.
+- [] Entender qué son los brokers de mensajería y cómo se usan.

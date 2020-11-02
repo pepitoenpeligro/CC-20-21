@@ -64,6 +64,8 @@
  - [ ] Entender la importancia de los flujos de trabajo en el desarrollo de software.
  - [ ] Entender cómo encaja TDD dentro de la infraestructura virtual.
 
+[Ejercicios Tema 3](https://github.com/antoniosp7/Ejercicios-CC) (Aún no se han realizado)
+
 
 
 

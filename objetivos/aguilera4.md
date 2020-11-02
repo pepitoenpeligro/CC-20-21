@@ -87,3 +87,21 @@
 - [x] Importancia de las HU en la misma → todo el desarrollo emana de ahí.
 
 [Ejercicios Tema 2](https://github.com/Aguilera4/Ejercicios_Autoeval_CC/blob/main/ejercicios_tema2.md)
+
+---
+
+# Objetivos Semana 4
+
+- [x] Objetivos a cubrir en esta semana
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los errores comunes en el hito 1.
+
+- [x] No enlazar la clase que se ha programado
+- [x] La clase no tiene que tener todos los getters y setters ... y tienen que enlazar las HU.
+- [x] La planificación tiene que ser explícita, no cada elemento por separado.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+[Ejercicios autoevaluación](https://github.com/Aguilera4/Ejercicios_Autoeval_CC). Falta hacer los ejercicios Tema 3.

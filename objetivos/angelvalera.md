@@ -53,6 +53,23 @@
 - [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD. 
 
+
+## Objetivos de la cuarta semana (27 de octubre de 2020)
+
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+## Otros objetivos
+
+- [x] Entender los errores comunes en el hito 1.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+- [ ] Realizar un reenvío con las correcciones del hito 1.
+- [x] Actualizar [fichero](https://github.com/JJ/CC-20-21/pull/219) de objetivos con los objetivos de la semana 4.
+
+
 ---
 
 ## Actividades

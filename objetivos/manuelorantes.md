@@ -40,3 +40,17 @@
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 
 [Ejercicios del tema 2](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana2.md)
+
+
+# Hito 2
+
+## Objetivos de la semana 4
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+[Ejercicios semana 4](https://github.com/manuelorantes/Ejercicios_CC/blob/main/Semana4.md)
+

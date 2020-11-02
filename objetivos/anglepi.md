@@ -39,3 +39,14 @@
 - [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
 
 [Ejercicios tema 2](https://github.com/Anglepi/EjerciciosCC/tree/main/Tema2)
+
+# Objetivos de la cuarta semana
+- [X] Corregir y reenviar el hito 1.
+- [X] Entender las claves del desarrollo basado en pruebas.
+- [X] Comprender el papel fundamental de la infreastructura virtual en este proceso.
+- [X] Entender cual es la estructura de los programas de test y cómo se puede implementar en los diferentes lenguajes de programación.
+- [X] Leer tema de contenedores.
+
+[Issue de corrección: Planificacion mas realista](https://github.com/Anglepi/Aura/issues/19)
+[Issue de corrección: Redefinir arquitectura](https://github.com/Anglepi/Aura/issues/18)
+[Issue de corrección: Enlazar clases a readme e incluir estructuras de datos](https://github.com/Anglepi/Aura/issues/20)

@@ -43,3 +43,19 @@
  - [x] Recordar la importancia de las Historias de Usuario.
 
  [Ejercicios tema 2](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%202/Ejercicios.md)
+
+## Objetivos de la cuarta semana
+
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los errores comunes en el hito 1.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+- [x] Entender cómo funciona mi herramienta con el desarrollo BDD y TDD.
+- [x] Revisar el término "code coverage"
+- [x] Revisar el valor de "code coverage" en mi proyecto
+- [x] Realizar un reenvío con las correcciones del hito 1.
+
+[Ejercicios tema 3](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%203/Ejercicios.md)

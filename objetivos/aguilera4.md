@@ -103,3 +103,5 @@
 - [x] La planificación tiene que ser explícita, no cada elemento por separado.
 - [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
 - [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+[Ejercicios autoevaluación](https://github.com/Aguilera4/Ejercicios_Autoeval_CC). Falta hacer los ejercicios Tema 3.

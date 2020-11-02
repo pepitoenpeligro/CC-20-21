@@ -46,3 +46,23 @@
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 
 [Ejercicios Tema 2](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion/blob/main/tema2.md)
+
+# Objetivos de la cuarta semana (27 de octubre de 2020)
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+## Otros objetivos
+
+- [x] Entender los errores comunes en el hito 1.
+    - No enlazar la clase que se ha programado
+    - La clase no tiene que tener todos los getters y setters...
+    - ... y tienen que enlazar las HU.
+    - La planificación tiene que ser explícita, no cada elemento por separado.
+
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+Pendiente: [Hacer ejercicios Contenedores](https://github.com/Carlossamu7/CC1-EjerciciosAutoevaluacion)

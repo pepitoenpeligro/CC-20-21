@@ -59,6 +59,7 @@
     * Mucho cuidado con la combinación Node/Express. Como la ha
       escogido casi todo el mundo, los puntos de originalidad no están
       garantizados.
+
 ## Siguiente semana
 
 [Quinta semana](05-semana.md)

@@ -7,9 +7,20 @@
    este proceso.
 4. Entender cual es la estructura de los programas de test y cómo se
    pueden implementar en los diferentes lenguajes de programación.
-
+5. Entender los casos de uso de los contenedores y su importancia en
+   la computación nube actual.
+   
 ## Otros objetivos
-
+* Ponerse al día quien se haya incorporado tarde. Empezar con
+  familiarizarse en profundidad con git y GitHub, y a continuación el
+  hito 0.
+* Instalar docker y/o podman/buildah.
+* Recordar nociones básicas de Linux: administración básica de una
+  máquina. Instalación de paquetes, instalación de repositorios,
+  gestión de usuarios.
+* Comprender las claves del éxito de Docker.
+  * Entender qué son los registros de contenedores como Docker Hub y
+    cómo usarlos.
 * Entender los errores comunes en el hito 1, como [se vieron en la
   clase práctica](04-semana.md). Adicionalmente:
   * Uno no debe añadir a una clase o módulo lo que se ocurra
@@ -30,13 +41,31 @@
           repetitivos y que no añadan nada. Ya se sabe que se ha
           creado un fichero. Lo que tienes que explicar es cómo y por
           qué lo has creado de esta forma y no de otra.
+  * Si las clases son sólo contenedores de datos y eso resuelve tu
+    problema, tu problema no necesita una aplicación, necesita una
+    base de datos. Vuelve a pensar el problema, porque las clases son
+    código, deben hacer *algo*.
   * Los mensajes de commit son la documentación de un cambio. Deben
     cuidarse, justificarse por qué se ha hecho así, y todo lo
     necesaroi para entenderlo.
-  
+* Recordatorio: el fichero README.md corresponde a la etapa actual de
+  desarrollo del proyecto, y debe incluir un apartado para fácil
+  acceso a la lectura de las rúbricas.
 
 ## Material para la clase
 
+Se comenzará con
+el
+[tema de contenedores](http://jj.github.io/CC/documentos/temas/Contenedores.html).
+
+Del
+[tema correspondiente](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas),
+no hace falta llegar al apartado de integración continua, que se verá
+más adelante.
+
+Se recuerda que hay que entregar el [hito 2](https:///jj.github.io/CC/documentos/proyecto/2.Tests),
+  el segundo hito de la asignatura. Entrega del hito: 23:59 horas, 8
+  de noviembre.
 
 ## Siguiente semana
 

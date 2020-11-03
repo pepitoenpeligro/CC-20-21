@@ -65,4 +65,3 @@
 - [x] Importancia de las HU en la misma → todo el desarrollo emana de ahí.
 
 [Ejercicios Tema 2](https://github.com/ajalba/Ejercicios-de-autoevaluaci-n-Clouc-Computing/blob/main/ev_tema2.md)
-

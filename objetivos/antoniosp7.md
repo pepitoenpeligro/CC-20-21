@@ -48,4 +48,24 @@
 
 [Ejercicios Tema 2](https://github.com/antoniosp7/Ejercicios-CC/tree/main/Tema2)
 
+# Objetivos de la semana 4
+
+- [ ] Entender las claves del desarrollo basado en pruebas.
+- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [ ] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+
+## Otros objetivos
+ - [X] Entender los errores comunes en el hito 1.
+    - No enlazar la clase que se ha programado
+    - La clase no tiene que tener todos los getters y setters...
+    - ... y tienen que enlazar las HU.
+    - La planificación tiene que ser explícita, no cada elemento por separado.
+ - [ ] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+ - [ ] Entender cómo encaja TDD dentro de la infraestructura virtual.
+
+[Ejercicios Tema 3](https://github.com/antoniosp7/Ejercicios-CC) (Aún no se han realizado)
+
+
+
 

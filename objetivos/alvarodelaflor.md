@@ -38,3 +38,27 @@
   - [x] Comprender la importancia de los gestores de paquetes, versiones y dependencias.
 
 [Ejercicios tema 2](https://github.com/alvarodelaflor/CC-Ejercicios/blob/main/Tema%202:%20Desarrollo%20basado%20en%20pruebas/tema2.md)
+
+# Objetivos de la cuarta semana
+- [ ] Entender las claves del desarrollo basado en pruebas.
+- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [ ] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+- [x] Entender los errores comunes en el hito 1.
+  * No enlazar la clase que se ha programado
+  * La clase no tiene que tener *todos* los getters y setters...
+  * ... y tienen que enlazar las HU.
+  * La planificación tiene que ser explícita, no cada elemento por
+    separado. 
+
+- [ ] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+
+- [ ] Entender cómo encaja TDD dentro de la infraestructura virtual.
+- [x] Comprender como realizar un plan de proyecto.
+- [x] Comprender como redactar historias de usuario.
+
+[Ejercicios tema 3](https://github.com/alvarodelaflor/CC-Ejercicios) Aún por realizar
+
+Correcciones principales del hito 1:
+- [Nueva redacción de las historias de usuario](https://github.com/alvarodelaflor/CoronaAlert/issues).
+- [Nuevo plan de proyecto](https://github.com/alvarodelaflor/CoronaAlert/blob/master/Documentation/project_plan.md).

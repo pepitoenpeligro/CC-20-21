@@ -19,10 +19,10 @@
   la asignatura, empezando por los de la primera semana](01-semana.md).
 * Hacer un ejercicio práctico de domain driven design.
 * Entender por qué se desarrolla desde espacio de usuario y por qué
-  hay que usar siempre [gestores de versiones](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) para todos cualquier
+  hay que usar siempre [gestores de versiones](https://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) para todos cualquier
   lenguaje de desarrollo.
 * Entender los conceptos fundamentales de [desarrollo basado en
-  pruebas](http://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
+  pruebas](https://jj.github.io/CC/documentos/temas/Desarrollo_basado_en_pruebas#entornos-virtuales-de-desarrollo) TDD.
   * Importancia de las HU en la misma → todo el desarrollo emana de ahí.
 
 ## Laboratorio 21 de octubre de 2020

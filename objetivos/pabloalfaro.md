@@ -28,3 +28,6 @@
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 
 [Autoevaluación 2](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema2/tema2.md)
+
+
+[Autoevaluación 3](https://github.com/pabloalfaro/CC-Ejercicios/blob/main/tema3/tema3.md)

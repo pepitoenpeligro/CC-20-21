@@ -39,4 +39,4 @@
 - [x] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
 - [x] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
 
-[Ejercicios del tema 2](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana02.md)
+[Ejercicios tema 2](https://github.com/Jumacasni/Ejercicios-autoevaluacion-CC/blob/main/Ejercicios-Semana02.md)

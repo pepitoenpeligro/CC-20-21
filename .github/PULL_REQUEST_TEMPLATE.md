@@ -20,7 +20,7 @@ Entrega de fichero de objetivos
 * [ ] He leído el guión del hito
 * [ ] Cumplo los prerrequisitos (he aprobado el hito anterior, por ejemplo)
 * [ ] He actualizado con la última versión del fichero de entrega (y resto del repositorio).
-* [ ] He [seguido las instrucciones para reenvíos](http://jj.github.io/CC/documentos/proyecto/Reenvios) *sólo en caso de reenvío*.
+* [ ] He [seguido las instrucciones para reenvíos](https://jj.github.io/CC/documentos/proyecto/Reenvios) *sólo en caso de reenvío*.
 
 ## Lista de comprobación para objetivos (*borrar si no es un objetivo*)
 

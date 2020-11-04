@@ -50,3 +50,21 @@
 - [X] Entender por qué se desarrolla desde espacio de usuario y por qué hay que usar siempre gestores de versiones para todos cualquier lenguaje de desarrollo.
 - [X] Entender los conceptos fundamentales de desarrollo basado en pruebas TDD.
   - [X] Importancia de las HU en la misma → todo el desarrollo emana de ahí.
+
+## Objetivos cuarta semana
+
+[Ejercicios tema 3](https://github.com/kcobos/Ejercicios-CC/tree/master/Tema3)
+
+- [X] Entender las claves del desarrollo basado en pruebas.
+- [X] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [X] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+
+### Otros objetivos
+
+- [ ] Entender los errores comunes en el hito 1.
+  - [X] No enlazar la clase que se ha programado
+  - [X] La clase no tiene que tener todos los getters y setters...
+  - [X] ... y tienen que enlazar las HU.
+  - [ ] La planificación tiene que ser explícita, no cada elemento por separado.
+- [X] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [X] Entender cómo encaja TDD dentro de la infraestructura virtual.

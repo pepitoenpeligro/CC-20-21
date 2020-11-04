@@ -23,7 +23,7 @@
 
 ## Material para la clase
 
-- [Desarrollo basado en tests](http://jj.github.io/CC/documentos/proyecto/2.Tests),
+- [Desarrollo basado en tests](https:///jj.github.io/CC/documentos/proyecto/2.Tests),
   el segundo hito de la asignatura. Entrega del hito: 23:59 horas, 8
   de noviembre.
 
@@ -59,6 +59,7 @@
     * Mucho cuidado con la combinación Node/Express. Como la ha
       escogido casi todo el mundo, los puntos de originalidad no están
       garantizados.
+
 ## Siguiente semana
 
 [Quinta semana](05-semana.md)

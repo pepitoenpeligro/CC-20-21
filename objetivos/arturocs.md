@@ -1,6 +1,9 @@
 ## Objetivos a cubrir en la primera semana
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
-- [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura. 
+- [x] Darse de alta y comprender el funcionamiento básico
+   de git y GitHub y el grupo de Telegram de la
+   asignatura; conocer y entender el resto de los recursos de la
+   asignatura. 
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
 - [ ] Vernos las caras.
 - [x] Comenzar a usar `git` desde línea de órdenes y comprender su papel como sistema para trabajo colaborativo y despliegue de aplicaciones. Un buen conocimiento de git es fundamental para trabajar en esta asignatura.
@@ -12,13 +15,12 @@
 - [x] Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub. 
 - [x] Manejar de forma básica la línea de órdenes de Linux.
 - [x] Aprender a instalar software libre en Linux.
-- [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
+- [x] Entregar el fichero de objetivos y los primeros ejercicios usando
+  GitHub.
 - [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar
   en la asignatura. 
-
+  
 [Ejercicios](https://github.com/arturocs/autoevaluacion-CC/blob/master/Tema_1.md)
-
-
 
 ## Objetivos a cubrir en la segunda y tercera semana
 

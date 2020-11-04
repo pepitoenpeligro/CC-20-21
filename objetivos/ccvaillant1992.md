@@ -17,3 +17,26 @@
 * [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura
 
 Los ejercicios del Tema#1 resueltos este [enlace](https://github.com/ccvaillant1992/CC-20-21-Ejercicios/blob/master/docs/Ejercicios-Tema1.md)
+
+# Objetivos a cubrir en la segunda semana
+
+* [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+* [x] Entender las características de las aplicaciones que se despliegan en la nube.
+## Otros objetivos
+* [x] Entender los errores cometidos en el hito
+- Entender cómo se hace desarrollo colaborativo en git: resolver conflictos, sincronizar versiones...
+- Entender por qué no se hace git pull sino git pull --rebase y como arreglarlo en ese caso usando un squash commits con git rebase -i.
+- Ejemplo de arquitectura basada en eventos: cliente Slack y Celery + servidor de tareas.
+- Ejemplo adicional Gateway + worker + procesador + store.
+* [x] Entender que las arquitecturas basadas en microservicios necesitan servicios adicionales.
+- Configuración remota
+- Log
+* [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+* [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- Saber manejar la historia de comandos anteriores.
+- Configurar la línea de órdenes para presentar información de repos.
+- Conocer permisos y cuales usar en cada momento.
+* [x] Entender lo necesario para entregar el hito 0 del proyecto.
+
+Los ejercicios del Tema#2 Desarrollo Basado en pruebas resueltos este [enlace](https://github.com/ccvaillant1992/CC-20-21-Ejercicios/blob/master/docs/Ejercicios-Tema2.md)
+

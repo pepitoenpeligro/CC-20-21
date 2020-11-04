@@ -1,6 +1,6 @@
 # Fichero de objetivos Neo-Stark
 
-## Objetivos de la primera semana
+## Semana 1
 - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico de git y GitHub y el grupo de Telegram de la asignatura; conocer y entender el resto de los recursos de la asignatura.
 - [x] Entender el concepto de software libre y su aplicación práctica en clase.
@@ -22,3 +22,21 @@
 - [x] Cambiar nombre de este fichero para que pase a estar en minúscula y los tests logren encontrarlo. Referencia al [PR](https://github.com/JJ/CC-20-21/pull/89).
 
 [Ejercicios Tema 1](https://github.com/Neo-Stark/Ejercicios-CC/blob/main/Tema1.md)
+
+## Semana 2
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Manejar con soltura los diferentes recursos de línea de órdenes, especialmente en Linux.
+- [x] Elegir lenguaje de programación y framework para el proyecto
+
+## Semana 3
+- [x] Entender el concepto de herramientas de construcción/gestores de tareas y su importancia en la infraestructura virtual. Entender la diferencia con los gestores de dependencias.
+- [x] Estudiar tema Desarrollo basado en pruebas
+- [x] Comprender la importancia del desarrollo basado en pruebas
+- [x] Actividades tema 2:
+    1. Se ha usado npm para instalar y gestionar diferentes versiones de node.js
+    2. En lugar de package.json se ha usado build.sbt en scala para describir el módulo.
+    3. Puesto que mi proyecto se va a desarrollar en scala pongo como ejemplo el propio proyecto para el ejercicio: https://github.com/neo-Stark/FIND4CAR/
+    4. Pendiente
+    5. Hecho. Falta documentar y enlazar. 
+- [x] Modificar plantilla del PR para que pase los tests

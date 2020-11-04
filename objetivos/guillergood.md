@@ -20,5 +20,42 @@
 
 [Ejercicios tema 1](https://github.com/Guillergood/Ejercicios_20-21_CC/tree/main/Ejercicios%20Tema%201)
 
-[Cuaderno de objetivos hito 0](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Cuadernos/Cuaderno%20de%20objetivos%20hito%200.md)
+## Objetivos de la segunda semana
+- [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+- [x] Entender las características de las aplicaciones que se despliegan en la nube.
+- [x] Remarcar lo necesario para alcanzar el primer hito del proyecto de la asignatura.
+- [x] Entender lo necesario para entregar el hito 0 del proyecto.
+- [x] Aprender de los errores cometidos en el hito 0.
+- [x] Entender correctamente la dinámica de la asignatura.
+- [x] Entender correctamente la enseñanza basada en proyecto y por objetivos. 
+- [x] Afianzar conocimientos de cómo se plantea un proyecto en informática. 
+- [x] Entender arquitecturas de paso de mensajes.
+- [x] Repasar conceptos de TDD.
 
+## Objetivos de la tercera semana
+ - [x] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en nube.
+ - [x] Entender las características de las aplicaciones que se despliegan en la nube.
+ - [x] Repasar conceptos de desarrollo colaborativo en git:  sincronizar versiones, etc.
+ - [x] Interiorizar comandos en Linux.
+ - [x] Aprender más sobre cómo gestionar recursos en mi proyecto.
+ - [x] Aprender más sobre la tecnología que voy a usar.
+ - [x] Afianzar conocimientos sobre integración continua.
+ - [x] Recordar la importancia de las Historias de Usuario.
+
+ [Ejercicios tema 2](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%202/Ejercicios.md)
+
+## Objetivos de la cuarta semana
+
+
+- [x] Entender las claves del desarrollo basado en pruebas.
+- [x] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [x] Entender cual es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
+- [x] Entender los errores comunes en el hito 1.
+- [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
+- [x] Entender cómo funciona mi herramienta con el desarrollo BDD y TDD.
+- [x] Revisar el término "code coverage"
+- [x] Revisar el valor de "code coverage" en mi proyecto
+- [x] Realizar un reenvío con las correcciones del hito 1.
+
+[Ejercicios tema 3](https://github.com/Guillergood/Ejercicios_20-21_CC/blob/main/Ejercicios%20Tema%203/Ejercicios.md)

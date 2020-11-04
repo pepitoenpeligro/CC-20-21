@@ -51,5 +51,5 @@ El repositorio que almacenará todas las tareas de auto evaluación se puede enc
 - [x] Entender qué es un issue y para qué sirve.
 - [x] Entender qué es una entidad en el contexto de domain driven design y en qué se diferencian de objetos valor.
 - [ ] Entender qué implicar resolver un problema más allá de poder almacenar, buscar y recuperar cosas.
-
+ 
 # Sexta Semana

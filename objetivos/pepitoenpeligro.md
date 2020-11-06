@@ -50,6 +50,3 @@
 
 [Ejercicios Tema 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md)
 
-
-
-

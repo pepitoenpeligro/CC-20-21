@@ -38,7 +38,7 @@
 - [x] Entender los errores comunes en el hito 1.
   - [x] No enlazar la clase que se ha programado.
 - [x] Entender la importancia de los flujos de trabajo en el desarrollo de software.
-- [x] Entender cómo encaja TDD dentor de la infraestructura virtual.
+- [x] Entender cómo encaja TDD dentro de la infraestructura virtual.
 
 
 # Objetivos a cubrir en la quinta semana
@@ -47,6 +47,6 @@
 - [x] Entender cuál es la estructura de los programas de test y cómo se pueden implementar en los diferentes lenguajes de programación.
 - [x] Entender los casos de uso de los contendores y su importancia en la computación nube actual. 
 
-
 [Ejercicios Tema 3](https://github.com/pepitoenpeligro/CC-Ejercicios/blob/master/03.md)
+
 

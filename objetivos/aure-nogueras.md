@@ -68,7 +68,7 @@
 - [x] Entender los errores comunes en el hito 1, como se vieron en la clase práctica. Adicionalmente:
 	- Uno no debe añadir a una clase o módulo lo que se ocurra "inspirado" por lo que pone en una HU. Por ejemplo, si no hay ninguna HU que diga que se puede borrar algo, no se puede añadir una función para hacerlo. Las clases en conjunto no son lo que se debe añadir refiriendo a las HU, es la funcionalidad específica.
 	- Si las clases son sólo contenedores de datos y eso resuelve tu problema, tu problema no necesita una aplicación, necesita una base de datos. Vuelve a pensar el problema, porque las clases son código, deben hacer algo.
-	- Los mensajes de commit son la documentación de un cambio. Deben cuidarse, justificarse por qué se ha hecho así, y todo lo necesaro para entenderlo.
+	- Los mensajes de commit son la documentación de un cambio. Deben cuidarse, justificarse por qué se ha hecho así, y todo lo necesario para entenderlo.
 
 [Ejercicios del tema 3](https://github.com/aure-nogueras/EjerciciosCC/blob/main/Tema3/ejercicios_tema3.md)
 

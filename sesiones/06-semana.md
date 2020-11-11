@@ -46,6 +46,13 @@ Ya se tendría que haber entregado [hito 2](https:///jj.github.io/CC/documentos/
      prácticas del lenguaje y marcos correspondientes, sobre todo si
      no corresponden al estándar general.
    * *Test frame*.
+   * Los tests deben de implementar sólo y exclusivamente lo que haya
+     en las HUs. Si no está, no se implementa. No cabe inventarse
+     requisitos que no estén en las HU.
+
+* Resolver dudas sobre este hito y los anteriores: entender los
+  conceptos de hito, MVP o PVM, HU, issues, cómo crear buenos commits,
+  cómo avanzar el código siguiendo esta metodología.
 
 ## Siguiente semana
 

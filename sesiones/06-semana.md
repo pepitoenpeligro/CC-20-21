@@ -25,6 +25,20 @@ Ya se tendría que haber entregado [hito 2](https:///jj.github.io/CC/documentos/
   el [hito 3](https:///jj.github.io/CC/documentos/proyecto/3.Docker),
   fecha tope *22 de noviembre* a las 23:59 horas.
 
+## Clase práctica, 11 de noviembre
+
+* Errores frecuentes en el hito 2
+  * "Justificación" en las rúbricas pretende dos cosas.
+    1. Que mostréis que entendéis cómo se trabaja con esa herramienta
+       y cómo la habéis usado, para que el fichero usado se vea que se
+       ha entendido.
+    2. Que mostréis que habéis tenido la diligencia debida buscando
+       diferentes alternativas para eventualmente quedarte con la que
+       has usado.
+    3. Que en ambas coss, habéis hecho uso de una cierta imaginación y
+       esfuerzo por escoger la opción más adecuada, pero quizás no la
+       más popular.
+
 ## Siguiente semana
 
 [Sexta semana](06-semana.md)

@@ -38,6 +38,14 @@ Ya se tendría que haber entregado [hito 2](https:///jj.github.io/CC/documentos/
     3. Que en ambas coss, habéis hecho uso de una cierta imaginación y
        esfuerzo por escoger la opción más adecuada, pero quizás no la
        más popular.
+   * En la elección del marco de pruebas y biblioteca de aserciones
+     uno de los criterios principales es que se corresponda al estilo
+     de tests que se ha elegido, TDD o BDD. Una de las cosas que hay
+     que explicitar en el mismo es precisamente eso.
+   * En cualquier rúbrica hay que justificar que se siguen las buenas
+     prácticas del lenguaje y marcos correspondientes, sobre todo si
+     no corresponden al estándar general.
+   * *Test frame*.
 
 ## Siguiente semana
 

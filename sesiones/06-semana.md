@@ -65,4 +65,4 @@ Ya se tendría que haber entregado [hito 2](https:///jj.github.io/CC/documentos/
 
 ## Siguiente semana
 
-[Sexta semana](06-semana.md)
+[Séptima semana](07-semana.md)

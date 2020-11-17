@@ -8,10 +8,14 @@
 ## Otros objetivos
 
 - Darse de alta en Travis.
+- Darse de alta en otros sitios de integración continua.
 - Entender qué son las GitHub actions.
 - Otros sistemas de CI/CD y qué interés específico tienen.
+- [Buenas prácticas en sistemas de CI](http://jj.github.io/CC/documentos/temas/Integracion_continua.html#algunas-buenas-pr%C3%A1cticas)
 
 ## Material para la clase
+
+- [Integración continua](http://jj.github.io/CC/documentos/temas/Integracion_continua.html)
 
 ## Plazos vigentes esta semana
 

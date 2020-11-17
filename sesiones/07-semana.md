@@ -7,6 +7,7 @@
 
 ## Otros objetivos
 
+- [Optimizar imágenes Docker](http://jj.github.io/CC/documentos/temas/Contenedores#usando-dockerfiles)
 - Darse de alta en Travis.
 - Darse de alta en otros sitios de integración continua.
 - Entender qué son las GitHub actions.

@@ -18,6 +18,15 @@
 
 - [Integración continua](http://jj.github.io/CC/documentos/temas/Integracion_continua.html)
 
+## Clase práctica
+
+- Entender la diferencia entre [`ENTRYPOINT` y `CMD`](https://stackoverflow.com/questions/21553353/what-is-the-difference-between-cmd-and-entrypoint-in-a-dockerfile).
+- Entender la diferencia entre [`COPY` y `ADD`](https://stackoverflow.com/questions/24958140/what-is-the-difference-between-the-copy-and-add-commands-in-a-dockerfile) (y los permisos con
+  los que se ejecuta)
+- [Buenas prácticas](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) como
+  no tratar de escribir en los volúmenes compartidos.
+- [Builds en múltiples etapas](https://docs.docker.com/develop/develop-images/multistage-build/)
+
 ## Plazos vigentes esta semana
 
 Durante la misma se debe enviar

@@ -25,7 +25,8 @@
   los que se ejecuta)
 - [Buenas prácticas](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) como
   no tratar de escribir en los volúmenes compartidos.
-- [Builds en múltiples etapas](https://docs.docker.com/develop/develop-images/multistage-build/)
+- [Builds en múltiples etapas](https://docs.docker.com/develop/develop-images/multistage-build/) y
+  [cómo usarlo en Javascript](https://blog.webbylab.com/minimal_size_docker_image_for_your_nodejs_app/).
 
 ## Plazos vigentes esta semana
 

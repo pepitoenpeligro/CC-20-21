@@ -26,7 +26,9 @@
 
 # Material para la clase
 
-- [Hito número 4](https://jj.github.io/CC/documentos/proyecto/4.CI)
+- [Integración continua](http://jj.github.io/CC/documentos/temas/Integracion_continua.html)
+- [Hito número 4](https://jj.github.io/CC/documentos/proyecto/4.CI). Fecha
+  de entrega: **11 de diciembre** a las 23:59.
 
 ## Siguiente semana
 

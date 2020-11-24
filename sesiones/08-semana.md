@@ -24,7 +24,19 @@
 
 - Entender las diferentes rúbricas del hito 4 y qué implican.
 
-# Material para la clase
+## Clase de prácticas 25 de noviembre de 2020
+
+- Live coding en [Raku](https://raku.org)
+- Planteamiento de un problema: Asignar clases a asignaturas en un
+  centro de enseñanza. Esa será la HU inicial.
+- Creación de un repositorio a partir de una plantilla.
+- Creación de la HU y del hito correspondiente.
+- Creación de issues adicionales, o edición de la HU hasta llegar a
+  poder hacer un issue.
+- "User journey" aplicado a este caso.
+
+
+## Material para la clase
 
 - [Integración continua](http://jj.github.io/CC/documentos/temas/Integracion_continua.html)
 - [Hito número 4](https://jj.github.io/CC/documentos/proyecto/4.CI). Fecha

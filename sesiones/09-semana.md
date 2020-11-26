@@ -20,7 +20,14 @@
     configuraciones por omisión ni conexión entre objetivos (por
     ejemplo, build y test).
   - No uso o uso incorrecto de fixups o setups.
-
+- Errores frecuentes *hito 3*:
+  - Se dijo explícitamente que no se hiciera la comparación mínima
+    lenguaje, lenguaje-slim, lenguaje-alpine, porque iba a ganar
+    alpine. Pero es que si ni siquiera se hace la comparación con
+    alpine, es peor todavía.
+  - El README es el de un proyecto. Acumular cosas de diferentes hitos
+    sin orden y sin que explique lo que hace el proyecto, no
+    corresponde a lo que se pide.
 
 ## Material para la clase
 

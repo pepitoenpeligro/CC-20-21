@@ -5,7 +5,7 @@
 1. Entender el concepto de inyección de dependencias.
 2. Entender las diferentes fases en el proceso de despliegue de una
    aplicación
-   
+
 ## Objetivos prácticos
 
 - Entender errores frecuentes en la entrega del hito 3.
@@ -34,6 +34,11 @@
 - Creación de issues adicionales, o edición de la HU hasta llegar a
   poder hacer un issue.
 - "User journey" aplicado a este caso.
+
+## Clase de prácticas 30 de noviembre de 2020
+
+- Continuamos con Live Coding: excepciones, clases necesarias, tipado
+  estricto. Desde [la clase del otro día](https://github.com/JJ/raku-aulas).
 
 
 ## Material para la clase

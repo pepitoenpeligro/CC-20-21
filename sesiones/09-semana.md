@@ -34,9 +34,16 @@
   - Por supuesto, hay que usar el usuarion sin privilegios, no sólo
     definirlo.
 
-- Entender qué es un API [REST](http://jj.github.io/CC/documentos/temas/REST.html) y cuales son los diferentes elementos
+- Entender qué es un
+  API [REST](http://jj.github.io/CC/documentos/temas/REST.html) y
+  cuales son los diferentes elementos 
   que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las
   rutas.
+  
+- Entender la configuración de
+  un
+  [microservicio](http://jj.github.io/CC/documentos/temas/Microservicios.html) y
+  otros servicios esencialesx
 
 ## Material para la clase
 

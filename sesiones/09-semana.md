@@ -32,7 +32,7 @@
     para imagen base, con lo que una de las ventajas de usar Docker
     Hub la estáis eliminando. Mirad por favor qué significa cada cosa.
   - Por supuesto, hay que usar el usuarion sin privilegios, no sólo
-    definirlo. 
+    definirlo.
 
 ## Material para la clase
 

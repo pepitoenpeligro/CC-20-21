@@ -20,7 +20,7 @@
     orden.
   - *No* se pueden copiar los fuentes.
   - `VOLUME` realmente no hace falta.
-  - ¿hace falta git una vez que se haya descargado lo que sea? 
+  - ¿hace falta git o curl una vez que se haya descargado lo que sea?
 
 - Entender las diferentes rúbricas del hito 4 y qué implican.
 

@@ -2,7 +2,7 @@ name: "Comprueba la existencia del contenedor de docker"
 on:
   pull_request:
     paths:
-      - 'proyectos/hito-[34567].md'
+      - 'proyectos/[34567].md'
 
 jobs:
   docker_check:

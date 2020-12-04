@@ -1,6 +1,7 @@
 language: perl
 perl:
   - "5.22"
+install: skip
 before_script: perl -e 'print `git diff HEAD^1 HEAD` =~ /proyectos/ ? "Comprobando hito":"Comprobando objetivos", "\n" '
 script: prove -c
 

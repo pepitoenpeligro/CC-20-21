@@ -5,7 +5,7 @@ on:
       - 'proyectos/[1234567].md'
 
 jobs:
-  docker_check:
+  extrae_usuario_repo:
     runs-on: ubuntu-latest
     steps:
       - name: Extrae URL del repositorio
@@ -33,12 +33,12 @@ jobs:
             }
       - name: Exporta al fichero de entorno
         run: |
-          echo CC_USER=${{env.user}} >> $GITHUB_ENV
-          echo CC_REPO=${{env.repo}} >> $GITHUB_ENV
+          echo CC_USER=${{env.user}} >> USER_REPO
+          echo CC_REPO=${{env.repo}} >> USER_REPO
       - name: Sube resultados como artefactos
         uses: actions/upload-artifact@v2
         with:
           name: user-repo
-          path: $GITHUB_ENV
+          path: USER_REPO
 
 

@@ -5,9 +5,6 @@ jobs:
   check_pr:
     runs-on: ubuntu-latest
     steps:
-    - name: ¿Tengo Perl?
-      run:
-        perl --version
     - name: Comprobaciones CC
       uses: JJ/github-pr-contains-action@releases/v2
       with:

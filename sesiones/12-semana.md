@@ -1,12 +1,6 @@
-# Undécima semana, 15 de diciembre
+# Duodécima semana, 22 de diciembre
 
-## Objetivo de esta semana
-
-
-## Otros objetivos
-
-- Entender errores frecuentes en el último hito
-
+Última semana del año.
 
 
 ## Material de esta semana
@@ -21,4 +15,4 @@ con plazo hasta el **8 de enero**.
 
 ## Siguiente semana
 
-[Duodécima semana](12-semana.nd)
+[Décimo tercera semana](13-semana.nd)

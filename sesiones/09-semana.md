@@ -36,10 +36,10 @@
 
 - Entender qué es un
   API [REST](http://jj.github.io/CC/documentos/temas/REST.html) y
-  cuales son los diferentes elementos 
+  cuales son los diferentes elementos
   que lo conforman: verbos HTTP, estados HTTP, convenciones sobre las
   rutas.
-  
+
 - Entender la configuración de
   un
   [microservicio](http://jj.github.io/CC/documentos/temas/Microservicios.html) y
@@ -52,7 +52,7 @@
   veremos una introducción a
   los
   [microservicios](http://jj.github.io/CC/documentos/temas/Microservicios.html).
-  
+
 ## Plazos vigentes
 
 - [Hito número 4](https://jj.github.io/CC/documentos/proyecto/4.CI). Fecha

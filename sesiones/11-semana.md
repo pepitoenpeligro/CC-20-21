@@ -5,6 +5,8 @@
 
 ## Otros objetivos
 
+- [Rutas y middleware](http://jj.github.io/CC/documentos/temas/Microservicios.html),
+  y cómo hacer el desacoplamiento de una y de otra.
 - Entregar los hitos atrasados y ponerse al día.
 - Entender errores frecuentes en el último hito
   - No cuidar el README.md

@@ -68,6 +68,8 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
+#### [MedAuth](https://github.com/Carlosma7/MedAuth/)
+- [Issue](https://github.com/Carlosma7/MedAuth/issues/87)
 
 #### [Shop-safe](https://github.com/januszewskimar/shop-safe)
 

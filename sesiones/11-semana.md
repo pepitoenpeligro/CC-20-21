@@ -39,6 +39,26 @@
   a
   [recordar qué es una HU](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura),
   en particular aplicándolo al hito en el que estamos incursos.
+  - Dinámica de revisión de código: por parejas nombradas por el
+    profesor, revisar HUs
+    1. Ver que efectivamente se entiende.
+    2. Que es una HU, es decir, que expresa deseos de usuario/a
+    3. Qu expresa claramente qué tienen que ocurrir si no sucede lo
+       que espera el usuario.
+    2. Que expresa claramente las condiciones de satisfacción.
+    3. Que los issues (problemas para resolver el programador) ligados
+       efectivamente están relcionados con ellas y no son, a su vez,
+       HUs.
+    4. Que el código expresa lo que hay en la HU, y nada más que lo
+       que hay en la HU.
+    5. Que los tests prueban las condiciones de satisfacción y que
+       efectivamente se cumplen.
+   - Todas estas observaciones irán a diferentes issues que se
+     enlazarán en un apartado más abajo.
+     
+### Enlaces a issues, PRs, comentarios en la actividad anterior
+
+## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos
   y
   [buscar en los mismos](https://github.com/cr13/RecetaCoctel/commit/63d2eb140a75d5993ab8ba3a3e8670a0a9b3d932).

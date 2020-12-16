@@ -44,6 +44,11 @@
 - Cómo tratar con APIs externos. En una palabra: desacoplar.
   - Hacer un API que llame a otro API no deja de ser un antipatrón, y
     no tiene valor añadido.
+    - Si se quiere hacer de todas formas, hay que abstraer el API
+      externo con una capa que lo adapte al propio lenguaje y
+      aplicación. Adicionalmente, tener mecanismos como cachés
+      intermedias u otros mecanismos que ahorren peticiones con una
+      latencia desconocida y variable.
 
 ## Material de esta semana
 

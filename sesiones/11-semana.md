@@ -33,7 +33,9 @@
 
 - Antipatrones en HUs: usar un formato incorrecto, no incluir
   condiciones de satisfacción, o simplemente usar como tales 
-  [lo que no lo es](https://github.com/cr13/RecetaCoctel/issues/5) [(más ejemplos)](https://github.com/Jumacasni/Terrake/issues/70). Vamos
+  [lo que no lo es](https://github.com/cr13/RecetaCoctel/issues/5) [(más ejemplos)](https://github.com/Jumacasni/Terrake/issues/70) y
+  [más](https://github.com/Carlossamu7/CC1-Conservatorio/issues/43). Por
+  favor, no os copiéis, tratad de entender qué es lo que estáis haciendo. Vamos
   a
   [recordar qué es una HU](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura),
   en particular aplicándolo al hito en el que estamos incursos.
@@ -49,6 +51,14 @@
       aplicación. Adicionalmente, tener mecanismos como cachés
       intermedias u otros mecanismos que ahorren peticiones con una
       latencia desconocida y variable.
+- Entender los diferentes modos de acceso de una aplicación y en
+  especial el acceso a la lógica de negocio. En particular, no todo lo
+  que haga el backend debe ir al API externo. Dado que se va a
+  trabajar con una "single source of truth", puede haber diferentes
+  "aplicaciones" que trabajen frente a esa SSOT. Por ejemplo, uno que
+  lo "pueble" y otro que lo sirva.
+  - Tener en cuenta los ritmos de variación y sobre todo los roles de
+    cada uno de ellos.
 
 ## Material de esta semana
 

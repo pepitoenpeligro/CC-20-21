@@ -2,6 +2,10 @@
 
 ## Objetivo de esta semana
 
+1. Entender los conceptos fundamentales de una arquitectura de
+   microservicios.
+2. Entender el concepto de *desacoplamiento* y lo que conlleva en el
+   diseño de una aplicación.
 
 ## Otros objetivos
 
@@ -25,6 +29,11 @@
   - Para tests el target es siempre `test`, no `tests`
   - ¿Para qué sirve `package-lock.json`?
 
+## Práctica 16 de diciembre de 2020
+
+- Cómo *no* hacer una HU. En particular,
+  qué [no es](https://github.com/Jumacasni/Terrake/issues/70) una
+  condición de satisfacción.
 
 ## Material de esta semana
 

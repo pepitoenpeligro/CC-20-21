@@ -68,6 +68,7 @@
 - [Comentarios HU2](https://github.com/ccvaillant1992/UniTradicional/issues/15)
 - [Comentarios HU1](https://github.com/ccvaillant1992/UniTradicional/issues/14)
 
+
 #### [MedAuth](https://github.com/Carlosma7/MedAuth/)
 - [Issue](https://github.com/Carlosma7/MedAuth/issues/87)
 
@@ -105,6 +106,15 @@
 * [Issue para indicar que los test no están referenciados en su correspondiente historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/31)
 * [Comentario sobre un error cometido dentro de la información de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746539621)
 * [Comentario sobre el desconocimiento de algunos aspectos de una historia de usuario.](https://github.com/kcobos/SIGA-Cloud/issues/2#issuecomment-746547445)
+
+#### [LyricsHunter](https://github.com/AngelValera/LyricsHunter)
+
+- [Comentario 1](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746470726)
+- [Comentario 2](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746486536)
+- [Comentario 3](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746490220)
+- [Comentario 4](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746497444)
+- [Comentario 5](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746499291)
+- [Comentario 6](https://github.com/AngelValera/LyricsHunter/issues/13#issuecomment-746500990)
 
 ## Práctica 22 de diciembre 
 - Cómo *no* almacenar los datos

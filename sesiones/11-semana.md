@@ -32,8 +32,13 @@
 ## Práctica 16 de diciembre de 2020
 
 - Cómo *no* hacer una HU. En particular,
-  qué [no es](https://github.com/Jumacasni/Terrake/issues/70) una
-  condición de satisfacción.
+  qué
+  [no](https://github.com/cr13/RecetaCoctel/issues/5) [es](https://github.com/Jumacasni/Terrake/issues/70) una
+  condición de satisfacción. Vamos
+  a
+  [recordar qué es una HU](http://jj.github.io/CC/documentos/proyecto/1.Infraestructura),
+  en particular aplicándolo al hito en el que estamos incursos.
+- Cómo *no* almacenar los datos y [buscar en los mismos](https://github.com/cr13/RecetaCoctel/commit/63d2eb140a75d5993ab8ba3a3e8670a0a9b3d932).
 
 ## Material de esta semana
 

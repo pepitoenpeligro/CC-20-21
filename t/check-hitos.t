@@ -59696,7 +59696,7 @@ EOC
     my (@dockerfiles) =  grep( /Dockerfile/, @repo_files);
     isnt( @dockerfiles, 0, "Dockerfile presente" );
     # Comprobaciones sobre el Dockerfile
-    my $dockerfile_content =   read_text( @dockerfiles[0]);
+    my $dockerfile_content =   read_text( "$repo_dir/$dockerfiles[0]");
     ok( $dockerfile_content !~ /COPY \.\s+/, "Se deben copiar sólo los ficheros necesarios para la construcción" );
   }
   

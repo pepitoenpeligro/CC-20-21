@@ -2,9 +2,18 @@
 
 Última semana del año.
 
+## Objetivos de la asignatura
+
+1. Entender el concepto de API REST para interaccionar con
+   microservicios en la nube.
+2. Entender las diferencias de arquitectura entre monolíticas y otras
+   creadas para la nube.
 
 ## Objetivos adicionales:
 
+- [Revisitamos buenas prácticas en APIs REST](http://jj.github.io/CC/documentos/temas/REST.html).
+. [Tests de rutas](http://jj.github.io/CC/documentos/temas/Microservicios#probando-nuestra-aplicaci%C3%B3n-en-la-nube) y
+  por qué se deben separar de la aplicación en sí
 - Cómo *no* almacenar los datos
   y
   [buscar en los mismos](https://github.com/cr13/RecetaCoctel/commit/63d2eb140a75d5993ab8ba3a3e8670a0a9b3d932).

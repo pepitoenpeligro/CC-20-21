@@ -169,15 +169,15 @@ jobs:
       - name: Testea el contenedor
         if: steps.hito3.outputs.src == 'true'
         run: docker run -t -v `pwd`:/app/test ${CONTAINER,,}
-      - name: Testea microservicio hito 6
+      - name: Testea microservicio hito 5
         uses: dorny/paths-filter@v2
-        id: hito6
+        id: hito5
         with:
           filters: |
             src:
-              - 'proyectos/[678].md'
+              - 'proyectos/[567].md'
       - name: Ejecuta test del microservicio
-        if: steps.hito6.outputs.src == 'true'
+        if: steps.hito5.outputs.src == 'true'
         run: |
           docker run -t -v `pwd`:/app/test ${CONTAINER,,} sh -c "ls && ${CC_ORDEN_TAREAS} build && ${CC_ORDEN_TAREAS} install && ${CC_ORDEN_TAREAS} test"
 

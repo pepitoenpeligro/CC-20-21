@@ -4,4 +4,5 @@ use strict;
 use warnings;
 use v5.14;
 
-say "[skip ci] ", <>;
+my $commit_msg = do{local(@ARGV,$/)=@ARGV[0];<>};
+say "[skip ci] ", $commit_msg ;

@@ -7,6 +7,6 @@ my $commit_msg_file = $ARGV[0];
 my $commit_msg = do{local(@ARGV,$/)=$commit_msg_file;<>};
 print "Writing to $commit_msg_file\n";
 open(my $fh, '>', $commit_msg_file);
-print $fh $commit_msg;
+print $fh "[skip ci] $commit_msg";
 close $fh;
 print $commit_msg = do{local(@ARGV,$/)=$commit_msg_file;<>}, "\n";

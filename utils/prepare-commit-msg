@@ -3,5 +3,8 @@
 use strict;
 use warnings;
 
-my $commit_msg = do{local(@ARGV,$/)=$ARGV[0];<>};
-print "[skip ci] ", $commit_msg ;
+my $commit_msg_file = $ARGV[0];
+my $commit_msg = do{local(@ARGV,$/)=$commit_msg_file;<>};
+open(my $fh, '>', $commit_msg_file);
+print $fh $commit_msg;
+close $fh;

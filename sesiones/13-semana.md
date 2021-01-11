@@ -22,6 +22,8 @@ seguiremos a partir de ahora.
 
 ## Objetivos clase de prácticas 11 de enero
 
+- Comprobar crédito restante en Travis.
+- Ver hitos entregados para ver cómo se han resuelto los problemas.
 - Entender errores frecuentes en la entrega.
   - Arrancar el microservicio.
 

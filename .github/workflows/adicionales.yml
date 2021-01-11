@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Descarga repo usuario y decodifica configuración
-        uses: actions/checkout@v2name: Comprobaciones adicionales
+        uses: actions/checkout@v2
         with:
           fetch-depth: 2
       - name: Ejecuta tests en Perl

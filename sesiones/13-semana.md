@@ -18,14 +18,26 @@ seguiremos a partir de ahora.
   técnicas
   [para poner microservicios en producción](http://jj.github.io/IV/documentos/temas/Microservicios#microservicios-en-producci%C3%B3n).
 
-- Introducción a los [PaaS](http://jj.github.io/IV/documentos/temas/PaaS).
+- Introducción a la composición de servicios con Docker
+  Compose
+  [Composicion_de_contenedores](http://jj.github.io/IV/documentos/temas/Composicion_de_contenedores).
+
+- Comprobar crédito restante en Travis.
+
+- Entender errores frecuentes en la entrega.
+  - Arrancar el microservicio. Se recuerda que únicamente se tienen
+    que testear las rutas, en principio no sería necesario arrancar el
+    microservicio.
+- Instalar podman.
+
 
 ## Objetivos clase de prácticas 11 de enero
 
-- Comprobar crédito restante en Travis.
 - Ver hitos entregados para ver cómo se han resuelto los problemas.
-- Entender errores frecuentes en la entrega.
-  - Arrancar el microservicio.
+
+## Objetivo clase de prácticas 13 de enero
+
+- Ver en la práctica cómo se crea un pod.
 
 ## Material de esta semana
 

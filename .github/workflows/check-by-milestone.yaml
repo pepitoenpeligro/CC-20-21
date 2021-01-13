@@ -81,12 +81,7 @@ jobs:
             console.log( "» Analizando repo " + repo + " del usuario 🔥" + user )
             const non_paginated_issues = await github.issues.listForRepo.endpoint.merge( { owner: user, repo: repo })
             const issues = await github.paginate( non_paginated_issues )
-            const user_stories = issues.filter(
-              issue =>
-                issue.labels.filter( label => label.name === "user-stories" ).length > 0
-                && issue.title.includes('HU') || issue.title.includes('US') )
-                && issue.milestone
-            )
+            const user_stories = issues.filter( issue => issue.labels.filter( label => label.name === "user-stories" ).length > 0 && ( issue.title.includes('HU') || issue.title.includes('US') ) && issue.milestone )
             if ( user_stories.length > 0 ) {
               console.log( " ✅ Hay al menos una historia de usuario " )
             } else {
@@ -129,7 +124,7 @@ jobs:
                   console.log( "❌ El issue " + issue.number + " no está cerrado aunque aparece en la lista de tales " )
                 }
               }
-            }
+            })
   ops_on_repo:
     runs-on: ubuntu-latest
     needs: extrae_usuario_repo

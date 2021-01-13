@@ -129,7 +129,7 @@ jobs:
                   console.log( "❌ El issue " + issue.number + " no está cerrado aunque aparece en la lista de tales " )
                 }
               }
-            })
+            }
   ops_on_repo:
     runs-on: ubuntu-latest
     needs: extrae_usuario_repo

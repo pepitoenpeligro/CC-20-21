@@ -37,7 +37,8 @@ seguiremos a partir de ahora.
 
 ## Objetivo clase de prácticas 13 de enero
 
-- Ver en la práctica cómo se crea un pod.
+- Entender qué hay que meter en un grupo de docker compose
+- Ver algunos [ejemplos](https://github.com/JJ/platzi-servicio-web/blob/master/docker-compose.yml)
 
 ## Material de esta semana
 

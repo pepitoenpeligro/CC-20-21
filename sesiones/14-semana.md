@@ -47,7 +47,10 @@
 
 ## Laboratorio, 19 de enero
 
-Entender errores frecuentes del proyecto.
+- [Algunos tips para trabajar con docker compose](https://runnable.com/docker/advanced-docker-compose-configuration). Algunos
+  [tips adicionales](https://pscheit.medium.com/docker-compose-advanced-configuration-541356d121de).
+- Instalar podman y crear un pod con diferentes contenedores: [primer
+  ejercicio del último tema](http://jj.github.io/CC/documentos/temas/Composicion_de_contenedores#pods-con-podman).
 
 ## Material de esta semana
 

@@ -87,7 +87,7 @@ jobs:
             } else {
               core.setFailed( " ❌ No hay ninguna historia de usuario en el repo " )
             }
-            console.log( issues )
+            console.log( "Todos los issues", issues )
             const closed_issues = issues.filter( issue => issue.state === "closed" )
             console.log( "Closed issues",  closed_issues )
             closed_issues.forEach( async function( issue ) {

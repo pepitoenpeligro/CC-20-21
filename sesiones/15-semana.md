@@ -13,6 +13,13 @@
 ## Laboratorio, 25 de enero
 
 - Entender errores frecuentes en microservicios.
+  - Qué es
+    el
+    [middleware]([Rutas y middleware](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware) y
+    como
+    usarlo. Ver
+    [este ejemplo actualizado](https://github.com/JJ/tests-python/blob/master/HitosIV/hugitos.py).
+  - De vuelta con los códigos de estado. [Qué hay que devolver en un Delete](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete)
 
 ## Plazos vigentes
 

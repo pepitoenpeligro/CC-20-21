@@ -87,7 +87,6 @@ jobs:
             } else {
               core.setFailed( " ❌ No hay ninguna historia de usuario en el repo " )
             }
-            console.log( "Todos los issues", issues )
             const closed_issues = issues.filter( issue => issue.state === "closed" )
             console.log( "Closed issues",  closed_issues )
             closed_issues.forEach( async function( issue ) {
@@ -114,16 +113,15 @@ jobs:
                           issue: issue.number
                           }
                 const result = await github.graphql(query, variables)
-                console.log( result.repository.issue.timelineItems.nodes );
                 if ( result.repository.issue.timelineItems.nodes[0].closer != null ) {
-                            const closingEvent = result.repository.issue.timelineItems.nodes[0].closer.__typename
-                            if ( (closingEvent == 'Commit') || (closingEvent == 'PullRequest') ) {
+                  const closingEvent = result.repository.issue.timelineItems.nodes[0].closer.__typename
+                  if ( (closingEvent == 'Commit') || (closingEvent == 'PullRequest') ) {
                                 console.log(" ✅ El issue " + issue.number + " se cerró con un " + closingEvent )
-                            } else {
+                  } else {
                                 core.setFailed( "❌ El issue " + issue.number + " no se cerró con un commit o PR")
-                            }
+                  }
                 } else {
-                  console.log( "❌ El issue " + issue.number + " no está cerrado aunque aparece en la lista de tales " )
+                    core.setFailed( "❌ El issue " + issue.number + " no se cerró con un commit o PR")
                 }
               }
             })

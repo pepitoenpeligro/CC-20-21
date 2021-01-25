@@ -50,7 +50,7 @@ jobs:
               const user = process.env.CC_USER
               const repo = process.env.CC_REPO
               console.log( "» Trabajando con el repo " + repo + " para el usuario " + user )
-              const milestones = await github.issues.listMilestones( { owner: user, repo: repo } )
+              const milestones = await github.issues.listMilestones( { owner: user, repo: repo, state: 'all' } )
               if ( ! milestones.data.length ) {
                   core.setFailed("❌ Tiene que haber por lo menos un milestone")
               }

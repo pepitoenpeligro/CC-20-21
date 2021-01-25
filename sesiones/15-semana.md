@@ -11,7 +11,8 @@
 - Entender los errores frecuentes en el hito anterior.
 
 ## Laboratorio, 25 de enero
-
+- Todavía se mantienen malas prácticas en el uso de issues y mensajes
+  de commit.
 - Entender errores frecuentes en microservicios.
     - Qué es
     el

@@ -8,7 +8,10 @@
 ## Otros objetivos
 
 - Ponerse al día en la entrega de hitos anteriores.
-- Entender los errores frecuentes en el hito anterior.
+- [Entender los sistemas de configuración, incluyendo los interfaces comunes](http://jj.github.io/CC/documentos/temas/Configuracion_microservicios).
+- [Repaso al concepto de REST](http://jj.github.io/CC/documentos/temas/REST) entender
+  el concepto de recurso y cómo usarlo en este contexto. Algunos
+  estados interesantes.
 
 ## Laboratorio, 25 de enero
 - Todavía se mantienen malas prácticas en el uso de issues y mensajes

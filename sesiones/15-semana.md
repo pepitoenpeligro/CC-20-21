@@ -12,6 +12,7 @@
 - [Repaso al concepto de REST](http://jj.github.io/CC/documentos/temas/REST) entender
   el concepto de recurso y cómo usarlo en este contexto. Algunos
   estados interesantes.
+- Instalar consul, otro sistema de configuración distribuida.
 
 ## Laboratorio, 25 de enero
 - Todavía se mantienen malas prácticas en el uso de issues y mensajes
@@ -28,7 +29,7 @@
       prefijos de las rutas, luego las operaciones posibles.
       - Los códigos de estado son parte del API. En el diseño del API
       hay que incluirlos.
-      - De vuelta con los códigos de estado. [Qué hay que devolver en un Delete](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete).
+      - De vuelta con los códigos de estado. [Qué hay que devolver en un `delete`](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete).
 
 ## Plazos vigentes
 

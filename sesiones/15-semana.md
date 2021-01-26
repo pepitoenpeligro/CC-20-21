@@ -15,18 +15,17 @@
   de commit.
 - Entender errores frecuentes en microservicios.
     - Qué es
-    el
-    [middleware]([Rutas y middleware](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware) y
+    el [middleware](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware) y
     como
     usarlo. Ver
     [este ejemplo actualizado](https://github.com/JJ/tests-python/blob/master/HitosIV/hugitos.py).
     - El API se organiza alrededor del [concepto de
-      recurso]([Rutas y middleware](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware). Primero
+      recurso](http://jj.github.io/CC/documentos/temas/Microservicios.html#rutas-y-middleware). Primero
       se decide qué recursos vamos a usar, luego se definen los
       prefijos de las rutas, luego las operaciones posibles.
       - Los códigos de estado son parte del API. En el diseño del API
       hay que incluirlos.
-      - De vuelta con los códigos de estado. [Qué hay que devolver en un Delete](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete)
+      - De vuelta con los códigos de estado. [Qué hay que devolver en un Delete](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete).
 
 ## Plazos vigentes
 

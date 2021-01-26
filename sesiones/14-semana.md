@@ -40,7 +40,7 @@
   - Sobre la configuración
     - Poner a jopo los puertos o cualquier otro valor de configuración
       es un error bastante grande.
-      
+
 ## Laboratorio, 17 de enero
 
 Íntegramente dedicado a dudas de los estudiantes.

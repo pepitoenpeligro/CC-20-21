@@ -29,7 +29,13 @@
       prefijos de las rutas, luego las operaciones posibles.
       - Los códigos de estado son parte del API. En el diseño del API
       hay que incluirlos.
-      - De vuelta con los códigos de estado. [Qué hay que devolver en un `delete`](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete).
+      - De vuelta con los códigos de
+        estado. [Qué hay que devolver en un `delete`](https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete).
+        
+## Laboratorio, 27 de enero
+
+* [Vamos a trabajar con `consul`](http://jj.github.io/CC/documentos/temas/Configuracion_microservicios#consul) para
+  usarlo como sistema de configuración distribuida.
 
 ## Plazos vigentes
 

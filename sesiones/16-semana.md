@@ -11,4 +11,18 @@
 
 # Objetivos adicionales
 
+- Entender la utilidad y casos de uso de las herramientas que se han
+  usado y como y cuando se tienen que poner en práctica.
+- Entender la metodología de "aprender haciendo".
 
+# Clase del 1 de febrero
+
+- Revisitar los conceptos de dependency manager, task runner y build
+  tool y cómo se usan en [este
+  proyecto](https://github.com/JJ/tests-python).
+  - Tusk, mask, make, mmake.
+  - [Un ejemplo de uso de
+    `mask`](https://github.com/JJ/tests-python/blob/master/maskfile.md).
+- Entender qué es [nomad](https://www.nomadproject.io/) y qué lugar
+  ocupa en el nicho.
+- Instalar nomad y echarlo a andar con algún ejemplo.

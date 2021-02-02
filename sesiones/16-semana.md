@@ -14,6 +14,9 @@
 - Entender la utilidad y casos de uso de las herramientas que se han
   usado y como y cuando se tienen que poner en práctica.
 - Entender la metodología de "aprender haciendo".
+- Entender qué es HCL (Hashicorp Control language).
+- Resolver problemas que hayan surgido para el último hito.
+- Entender la convocatoria extraordinaria.
 
 # Clase del 1 de febrero
 

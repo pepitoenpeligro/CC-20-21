@@ -37,4 +37,4 @@
   volúmenes](http://jj.github.io/CC/documentos/temas/Contenedores#almacenamiento-de-datos-y-creaci%C3%B3n-de-vol%C3%BAmenes-docker)
   y [una mini-introducción a las redes de
   Docker](http://jj.github.io/CC/documentos/temas/Composicion_de_contenedores#redes-en-docker)
-  
+- [Fases en Docker Hub y como programarlas](https://github.com/JJ/p5-hitos/blob/master/hooks/post_checkout)

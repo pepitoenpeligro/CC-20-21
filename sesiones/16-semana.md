@@ -29,3 +29,12 @@
 - Entender qué es [nomad](https://www.nomadproject.io/) y qué lugar
   ocupa en el nicho.
 - Instalar nomad y echarlo a andar con algún ejemplo.
+
+# Clase del 3 de febrero
+
+- Los clusters son una composición de servicios, volúmenes, todo unido
+  por una red. Veamos [qué son los
+  volúmenes](http://jj.github.io/CC/documentos/temas/Contenedores#almacenamiento-de-datos-y-creaci%C3%B3n-de-vol%C3%BAmenes-docker)
+  y [una mini-introducción a las redes de
+  Docker](http://jj.github.io/CC/documentos/temas/Composicion_de_contenedores#redes-en-docker)
+  

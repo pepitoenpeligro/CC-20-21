@@ -175,7 +175,19 @@ jobs:
         if: steps.hito5.outputs.src == 'true'
         run: |
           docker run -t -v `pwd`:/app/test ${CONTAINER,,} sh -c "ls && ${CC_ORDEN_TAREAS} build && ${CC_ORDEN_TAREAS} install && ${CC_ORDEN_TAREAS} test"
-
+      - name: Testea docker compose hito 6
+        uses: dorny/paths-filter@v2
+        id: hito6
+        with:
+          filters: |
+            src:
+              - 'proyectos/6.md'
+      - name: Construye el cluster
+        if: steps.hito6.outputs.src == 'true'
+        run: |
+          docker-compose build
+          docker-compose up
+          ${CC_ORDEN_TAREAS} test
   test-ci-status:
     runs-on: ubuntu-latest
     needs: extrae_usuario_repo
